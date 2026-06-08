@@ -1,29 +1,42 @@
 [
   {
-    "count": 6,
+    "count": 3,
+    "id": 1321162444,
+    "title": "Blue Marble - 3D Raytraced Earth",
+    "shared": "2026-06-07T10:38:47.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1321162444_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/33657730_32x32.png?v=",
+    "loves": 184,
+    "favorites": 158,
+    "views": 1484,
+    "weight": 5.854899911227197,
+    "username": "1170008152"
+  },
+  {
+    "count": 5,
     "id": 1314601792,
     "title": "JETPLANAR | ジェット • プラナー ",
     "shared": "2026-05-04T03:10:01.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1314601792_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/46604896_32x32.png?v=",
-    "loves": 601,
-    "favorites": 542,
-    "views": 3045,
-    "weight": 6.42833896228895,
+    "loves": 602,
+    "favorites": 543,
+    "views": 3059,
+    "weight": 5.311876851935777,
     "username": "owaiso"
   },
   {
-    "count": 3,
-    "id": 1321162444,
-    "title": "Blue Marble - 3D Raytraced Earth",
-    "shared": "2026-05-18T09:55:21.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1321162444_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/33657730_32x32.png?v=",
-    "loves": 165,
-    "favorites": 140,
-    "views": 1419,
-    "weight": 3.9743070760969883,
-    "username": "1170008152"
+    "count": 2,
+    "id": 1326567163,
+    "title": "Log In! | Puzzle Game",
+    "shared": "2026-06-07T09:25:21.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1326567163_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/170543585_32x32.png?v=",
+    "loves": 42,
+    "favorites": 36,
+    "views": 156,
+    "weight": 3.898416769279549,
+    "username": "Draiveri"
   },
   {
     "count": 4,
@@ -32,10 +45,10 @@
     "shared": "2026-04-25T12:32:14.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1311847939_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/100220270_32x32.png?v=",
-    "loves": 1737,
-    "favorites": 1500,
-    "views": 10194,
-    "weight": 3.8425081475609235,
+    "loves": 1751,
+    "favorites": 1510,
+    "views": 10295,
+    "weight": 3.813495186753147,
     "username": "IncognitoOrange"
   },
   {
@@ -48,7 +61,7 @@
     "loves": 237,
     "favorites": 194,
     "views": 1350,
-    "weight": 3.7759767114655096,
+    "weight": 3.738708062445272,
     "username": "man-o-valor"
   },
   {
@@ -58,10 +71,10 @@
     "shared": "2026-06-05T09:39:13.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/843162693_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/1882674_32x32.png?v=",
-    "loves": 36955,
-    "favorites": 34484,
-    "views": 1484347,
-    "weight": 3.773665982575693,
+    "loves": 37172,
+    "favorites": 34689,
+    "views": 1488173,
+    "weight": 3.718105097172225,
     "username": "griffpatch"
   },
   {
@@ -74,7 +87,7 @@
     "loves": 3857,
     "favorites": 3096,
     "views": 72714,
-    "weight": 3.573389235267257,
+    "weight": 3.5399946755550573,
     "username": "Penthusiast"
   },
   {
@@ -84,10 +97,10 @@
     "shared": "2026-06-01T09:00:54.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1325624683_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/15883188_32x32.png?v=",
-    "loves": 1961,
-    "favorites": 1563,
-    "views": 17000,
-    "weight": 3.4463671513655396,
+    "loves": 2049,
+    "favorites": 1633,
+    "views": 18121,
+    "weight": 3.3999669057590505,
     "username": "ScratchCat"
   },
   {
@@ -100,7 +113,7 @@
     "loves": 86,
     "favorites": 66,
     "views": 1020,
-    "weight": 3.404228247453015,
+    "weight": 3.3589482872827285,
     "username": "-Vortyx-"
   },
   {
@@ -113,7 +126,7 @@
     "loves": 5,
     "favorites": 4,
     "views": 67,
-    "weight": 3.3267625177170053,
+    "weight": 3.2835067759448413,
     "username": "SirBob_Extras"
   },
   {
@@ -126,7 +139,7 @@
     "loves": 3241,
     "favorites": 2636,
     "views": 18220,
-    "weight": 3.259760546446205,
+    "weight": 3.2182187467975023,
     "username": "griffpatch"
   },
   {
@@ -139,7 +152,7 @@
     "loves": 561,
     "favorites": 556,
     "views": 2168,
-    "weight": 3.243823001008823,
+    "weight": 3.2162804697599556,
     "username": "scratchfan321"
   },
   {
@@ -152,7 +165,7 @@
     "loves": 166,
     "favorites": 145,
     "views": 714,
-    "weight": 3.098869753543259,
+    "weight": 3.0613038533173706,
     "username": "Inkstert"
   },
   {
@@ -165,7 +178,7 @@
     "loves": 58,
     "favorites": 45,
     "views": 256,
-    "weight": 3.023066434478691,
+    "weight": 2.987305295097672,
     "username": "TailsKirbyYoshi205"
   },
   {
@@ -178,7 +191,7 @@
     "loves": 95,
     "favorites": 66,
     "views": 346,
-    "weight": 2.9584264725215674,
+    "weight": 2.9241696254456997,
     "username": "Cuhkaerion"
   },
   {
@@ -191,7 +204,7 @@
     "loves": 98,
     "favorites": 84,
     "views": 917,
-    "weight": 2.934135849882392,
+    "weight": 2.900436031776173,
     "username": "r1vers_"
   },
   {
@@ -201,10 +214,10 @@
     "shared": "2026-05-23T13:53:08.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1305169933_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/170543585_32x32.png?v=",
-    "loves": 161,
-    "favorites": 140,
-    "views": 710,
-    "weight": 2.897356193974202,
+    "loves": 172,
+    "favorites": 148,
+    "views": 752,
+    "weight": 2.864491210140466,
     "username": "Draiveri"
   },
   {
@@ -217,7 +230,7 @@
     "loves": 541,
     "favorites": 517,
     "views": 2830,
-    "weight": 2.884210830441087,
+    "weight": 2.8624160474241624,
     "username": "BamBozzle"
   },
   {
@@ -230,7 +243,7 @@
     "loves": 39,
     "favorites": 35,
     "views": 192,
-    "weight": 2.7151479306839144,
+    "weight": 2.686265977778239,
     "username": "2okrisvadh"
   },
   {
@@ -240,10 +253,10 @@
     "shared": "2026-03-17T21:44:01.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1288051843_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/100220270_32x32.png?v=",
-    "loves": 1356,
-    "favorites": 1200,
-    "views": 20114,
-    "weight": 2.625193946635504,
+    "loves": 1357,
+    "favorites": 1201,
+    "views": 20152,
+    "weight": 2.611619400307711,
     "username": "IncognitoOrange"
   },
   {
@@ -253,10 +266,10 @@
     "shared": "2026-05-17T19:31:58.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1320083990_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/86169000_32x32.png?v=",
-    "loves": 116,
-    "favorites": 107,
-    "views": 515,
-    "weight": 2.623490265400168,
+    "loves": 117,
+    "favorites": 108,
+    "views": 526,
+    "weight": 2.5965156999327608,
     "username": "Untitled_TV"
   },
   {
@@ -266,10 +279,10 @@
     "shared": "2026-04-16T19:00:28.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1292437481_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/81656471_32x32.png?v=",
-    "loves": 4872,
-    "favorites": 3944,
-    "views": 95550,
-    "weight": 2.608431063845139,
+    "loves": 4875,
+    "favorites": 3947,
+    "views": 95571,
+    "weight": 2.590592036543467,
     "username": "KingdomBuilder77"
   },
   {
@@ -282,7 +295,7 @@
     "loves": 52,
     "favorites": 32,
     "views": 283,
-    "weight": 2.436549815335971,
+    "weight": 2.4132654482577403,
     "username": "LicensedMovieNerd"
   },
   {
@@ -295,7 +308,7 @@
     "loves": 207,
     "favorites": 181,
     "views": 823,
-    "weight": 2.404052542673953,
+    "weight": 2.381382250619487,
     "username": "World_Sim"
   },
   {
@@ -308,7 +321,7 @@
     "loves": 43,
     "favorites": 43,
     "views": 404,
-    "weight": 2.388741276376344,
+    "weight": 2.3663574918410624,
     "username": "littlebunny06"
   },
   {
@@ -321,7 +334,7 @@
     "loves": 369,
     "favorites": 339,
     "views": 3084,
-    "weight": 2.3497932158682877,
+    "weight": 2.335306620276858,
     "username": "nembence"
   },
   {
@@ -334,7 +347,7 @@
     "loves": 532,
     "favorites": 503,
     "views": 5176,
-    "weight": 2.339439310134376,
+    "weight": 2.3250797079169923,
     "username": "fortyonegames"
   },
   {
@@ -347,7 +360,7 @@
     "loves": 401,
     "favorites": 286,
     "views": 1402,
-    "weight": 2.229387134092316,
+    "weight": 2.2098780070144666,
     "username": "Penthusiast"
   },
   {
@@ -360,7 +373,7 @@
     "loves": 11,
     "favorites": 8,
     "views": 153,
-    "weight": 2.135491137387146,
+    "weight": 2.1175841511983977,
     "username": "Echo-517"
   },
   {
@@ -370,24 +383,11 @@
     "shared": "2026-03-25T20:20:29.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1295187326_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/62470721_32x32.png?v=",
-    "loves": 1000,
-    "favorites": 874,
-    "views": 4145,
-    "weight": 2.1061173369140467,
+    "loves": 1001,
+    "favorites": 875,
+    "views": 4151,
+    "weight": 2.0944720574745497,
     "username": "BrickPlex"
-  },
-  {
-    "count": 2,
-    "id": 1313165653,
-    "title": "In Office - PGMAJ",
-    "shared": "2026-05-02T03:32:41.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1313165653_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/130942955_32x32.png?v=",
-    "loves": 270,
-    "favorites": 240,
-    "views": 1358,
-    "weight": 2.087311562280858,
-    "username": "King_David_007"
   },
   {
     "count": 2,
@@ -396,10 +396,10 @@
     "shared": "2026-04-28T19:32:37.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1313344993_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/74337948_32x32.png?v=",
-    "loves": 756,
-    "favorites": 581,
-    "views": 2805,
-    "weight": 2.000324910124258,
+    "loves": 757,
+    "favorites": 582,
+    "views": 2810,
+    "weight": 1.9846046906824697,
     "username": "PeteyBirdd"
   },
   {
@@ -412,21 +412,8 @@
     "loves": 10360,
     "favorites": 9392,
     "views": 386035,
-    "weight": 1.9989729544762125,
+    "weight": 1.9832738940547332,
     "username": "-Forge"
-  },
-  {
-    "count": 1,
-    "id": 1329371800,
-    "title": "blank VS blank template",
-    "shared": "2026-06-07T16:18:39.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1329371800_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/96576302_32x32.png?v=",
-    "loves": 5,
-    "favorites": 5,
-    "views": 18,
-    "weight": 1.9939332198988227,
-    "username": "gabe_soto"
   },
   {
     "count": 2,
@@ -438,8 +425,47 @@
     "loves": 3640,
     "favorites": 2922,
     "views": 60868,
-    "weight": 1.9855235760455408,
+    "weight": 1.9700342375918314,
     "username": "Pocolilman"
+  },
+  {
+    "count": 1,
+    "id": 1329371800,
+    "title": "blank VS blank template",
+    "shared": "2026-06-07T16:18:39.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1329371800_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/96576302_32x32.png?v=",
+    "loves": 5,
+    "favorites": 5,
+    "views": 18,
+    "weight": 1.962935434524778,
+    "username": "gabe_soto"
+  },
+  {
+    "count": 1,
+    "id": 1323643659,
+    "title": "- -➤ opinions _ animeme . gift - -➤",
+    "shared": "2026-06-07T14:25:40.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1323643659_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/158780411_32x32.png?v=",
+    "loves": 62,
+    "favorites": 46,
+    "views": 109,
+    "weight": 1.9591637214304574,
+    "username": "Pennumbra"
+  },
+  {
+    "count": 1,
+    "id": 1257533720,
+    "title": "3D Ocean",
+    "shared": "2026-06-07T10:38:28.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1257533720_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/33657730_32x32.png?v=",
+    "loves": 85,
+    "favorites": 70,
+    "views": 544,
+    "weight": 1.9516228343585125,
+    "username": "1170008152"
   },
   {
     "count": 1,
@@ -451,8 +477,21 @@
     "loves": 22,
     "favorites": 16,
     "views": 103,
-    "weight": 1.9822303073078171,
+    "weight": 1.9515925267343237,
     "username": "1170008152"
+  },
+  {
+    "count": 1,
+    "id": 1329324674,
+    "title": "Bouncy Ninja 2 ",
+    "shared": "2026-06-07T10:11:47.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1329324674_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/109104481_32x32.png?v=",
+    "loves": 38,
+    "favorites": 24,
+    "views": 146,
+    "weight": 1.950741007386854,
+    "username": "Mozical"
   },
   {
     "count": 1,
@@ -464,21 +503,8 @@
     "loves": 4,
     "favorites": 3,
     "views": 21,
-    "weight": 1.9803022424436347,
+    "weight": 1.9497235743437522,
     "username": "1170008152"
-  },
-  {
-    "count": 1,
-    "id": 1326567163,
-    "title": "Log In! | Puzzle Game",
-    "shared": "2026-06-07T09:25:21.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1326567163_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/170543585_32x32.png?v=",
-    "loves": 29,
-    "favorites": 24,
-    "views": 89,
-    "weight": 1.9797707681686418,
-    "username": "Draiveri"
   },
   {
     "count": 1,
@@ -490,7 +516,7 @@
     "loves": 38,
     "favorites": 21,
     "views": 159,
-    "weight": 1.9770622490688932,
+    "weight": 1.9465827892478842,
     "username": "creativitee2-0"
   },
   {
@@ -503,7 +529,7 @@
     "loves": 43,
     "favorites": 20,
     "views": 156,
-    "weight": 1.9629965533509424,
+    "weight": 1.9329459435791108,
     "username": "peekyboo_"
   },
   {
@@ -516,7 +542,7 @@
     "loves": 6,
     "favorites": 6,
     "views": 42,
-    "weight": 1.9558494751113333,
+    "weight": 1.9260156267929918,
     "username": "Angle_5678"
   },
   {
@@ -529,7 +555,7 @@
     "loves": 2,
     "favorites": 2,
     "views": 23,
-    "weight": 1.9549688022913585,
+    "weight": 1.9251616101521285,
     "username": "Clodsire_V"
   },
   {
@@ -542,7 +568,7 @@
     "loves": 4,
     "favorites": 3,
     "views": 42,
-    "weight": 1.953802800319692,
+    "weight": 1.9240308826453063,
     "username": "NOT_-Greenlaxy-s_ALT"
   },
   {
@@ -555,7 +581,7 @@
     "loves": 10,
     "favorites": 8,
     "views": 37,
-    "weight": 1.951244137949321,
+    "weight": 1.9215495541071086,
     "username": "AConfusingLifestyl__"
   },
   {
@@ -568,7 +594,7 @@
     "loves": 10,
     "favorites": 6,
     "views": 172,
-    "weight": 1.9506395113643735,
+    "weight": 1.920963187483832,
     "username": "-AlgebraX-"
   },
   {
@@ -581,7 +607,7 @@
     "loves": 22,
     "favorites": 13,
     "views": 95,
-    "weight": 1.9477487689363384,
+    "weight": 1.918159670191249,
     "username": "Arldrawz"
   },
   {
@@ -591,10 +617,10 @@
     "shared": "2026-06-06T17:26:14.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1320929626_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/108962756_32x32.png?v=",
-    "loves": 96,
-    "favorites": 62,
-    "views": 216,
-    "weight": 1.9476675409380506,
+    "loves": 147,
+    "favorites": 102,
+    "views": 405,
+    "weight": 1.9180808913369853,
     "username": "Cool_fox_coder"
   },
   {
@@ -607,7 +633,7 @@
     "loves": 11,
     "favorites": 6,
     "views": 62,
-    "weight": 1.943132838290425,
+    "weight": 1.9136827583254268,
     "username": "Sagestalk"
   },
   {
@@ -620,7 +646,7 @@
     "loves": 12,
     "favorites": 10,
     "views": 53,
-    "weight": 1.9420469297084737,
+    "weight": 1.912629507400148,
     "username": "vitaminsee"
   },
   {
@@ -633,7 +659,7 @@
     "loves": 83,
     "favorites": 44,
     "views": 278,
-    "weight": 1.9413411127006055,
+    "weight": 1.9119449075929515,
     "username": "Gingertail_Meow"
   },
   {
@@ -646,7 +672,7 @@
     "loves": 6,
     "favorites": 4,
     "views": 30,
-    "weight": 1.9411404794510212,
+    "weight": 1.9117503041000214,
     "username": "Glistenfeather"
   },
   {
@@ -659,7 +685,7 @@
     "loves": 7,
     "favorites": 5,
     "views": 19,
-    "weight": 1.9409998428236623,
+    "weight": 1.9116138937501639,
     "username": "happysylveon"
   },
   {
@@ -672,7 +698,7 @@
     "loves": 101,
     "favorites": 57,
     "views": 261,
-    "weight": 1.9377441965063835,
+    "weight": 1.9084559993495944,
     "username": "Birdsaresocute"
   },
   {
@@ -685,7 +711,7 @@
     "loves": 90,
     "favorites": 67,
     "views": 321,
-    "weight": 1.9351011569216439,
+    "weight": 1.9058921999924852,
     "username": "JJPinger"
   },
   {
@@ -698,7 +724,7 @@
     "loves": 9,
     "favorites": 6,
     "views": 48,
-    "weight": 1.9234759920070923,
+    "weight": 1.8946143107292444,
     "username": "kaypaws"
   },
   {
@@ -711,7 +737,7 @@
     "loves": 4,
     "favorites": 1,
     "views": 23,
-    "weight": 1.9234139031335418,
+    "weight": 1.8945540711294684,
     "username": "xXArtzTheDragonXx"
   },
   {
@@ -724,7 +750,7 @@
     "loves": 14,
     "favorites": 10,
     "views": 53,
-    "weight": 1.9179577516600739,
+    "weight": 1.889260199432149,
     "username": "quatron--"
   },
   {
@@ -737,8 +763,21 @@
     "loves": 2,
     "favorites": 2,
     "views": 22,
-    "weight": 1.9103567879762104,
+    "weight": 1.881884556407747,
     "username": "-clawmoon-"
+  },
+  {
+    "count": 2,
+    "id": 1086056159,
+    "title": "Race The Sun 3D (attempt 5)",
+    "shared": "2026-04-24T05:43:44.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1086056159_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/88691857_32x32.png?v=",
+    "loves": 242,
+    "favorites": 209,
+    "views": 1432,
+    "weight": 1.8780179703953093,
+    "username": "ChuckSploder"
   },
   {
     "count": 1,
@@ -750,7 +789,7 @@
     "loves": 40,
     "favorites": 30,
     "views": 107,
-    "weight": 1.9035337493819744,
+    "weight": 1.8752630333135747,
     "username": "Skynimations"
   },
   {
@@ -763,7 +802,7 @@
     "loves": 156,
     "favorites": 113,
     "views": 728,
-    "weight": 1.8999208485333037,
+    "weight": 1.87175655166089,
     "username": "Pikakit"
   },
   {
@@ -776,21 +815,8 @@
     "loves": 5,
     "favorites": 5,
     "views": 19,
-    "weight": 1.8981781782633846,
+    "weight": 1.8700651418929821,
     "username": "blotthemime73"
-  },
-  {
-    "count": 2,
-    "id": 1086056159,
-    "title": "Race The Sun 3D (attempt 5)",
-    "shared": "2026-04-24T05:43:44.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1086056159_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/88691857_32x32.png?v=",
-    "loves": 242,
-    "favorites": 209,
-    "views": 1432,
-    "weight": 1.8920889826076623,
-    "username": "ChuckSploder"
   },
   {
     "count": 1,
@@ -802,7 +828,7 @@
     "loves": 10,
     "favorites": 8,
     "views": 72,
-    "weight": 1.884690176156862,
+    "weight": 1.8569723323607072,
     "username": "Ricky-Jan"
   },
   {
@@ -815,7 +841,7 @@
     "loves": 3,
     "favorites": 2,
     "views": 18,
-    "weight": 1.8734518545815837,
+    "weight": 1.8460611836452505,
     "username": "SunCrafter_6"
   },
   {
@@ -828,7 +854,7 @@
     "loves": 188,
     "favorites": 150,
     "views": 625,
-    "weight": 1.8685675267456898,
+    "weight": 1.8413184534030633,
     "username": "_ShadowHawk_"
   },
   {
@@ -841,7 +867,7 @@
     "loves": 10,
     "favorites": 10,
     "views": 32,
-    "weight": 1.8588978755374514,
+    "weight": 1.8319280592076626,
     "username": "TheBlackKnight2000"
   },
   {
@@ -854,7 +880,7 @@
     "loves": 70,
     "favorites": 45,
     "views": 824,
-    "weight": 1.8580388966695895,
+    "weight": 1.8310938189213715,
     "username": "TinyTansy"
   },
   {
@@ -867,7 +893,7 @@
     "loves": 9,
     "favorites": 8,
     "views": 84,
-    "weight": 1.8522045328379306,
+    "weight": 1.8254271886719278,
     "username": "Ricky-Jan"
   },
   {
@@ -880,7 +906,7 @@
     "loves": 102,
     "favorites": 87,
     "views": 293,
-    "weight": 1.8519906375239117,
+    "weight": 1.8252194328802975,
     "username": "World_Sim"
   },
   {
@@ -893,8 +919,21 @@
     "loves": 4,
     "favorites": 3,
     "views": 51,
-    "weight": 1.8518794910222711,
+    "weight": 1.8251114763870702,
     "username": "TheRealAL2009"
+  },
+  {
+    "count": 3,
+    "id": 1202020430,
+    "title": "Ozzy's Origins",
+    "shared": "2026-03-07T20:31:45.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1202020430_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/100220270_32x32.png?v=",
+    "loves": 1748,
+    "favorites": 1557,
+    "views": 11674,
+    "weight": 1.8102342776568034,
+    "username": "IncognitoOrange"
   },
   {
     "count": 1,
@@ -906,7 +945,7 @@
     "loves": 116,
     "favorites": 70,
     "views": 264,
-    "weight": 1.8297717719236086,
+    "weight": 1.8036345453055367,
     "username": "rainbowleenie"
   },
   {
@@ -918,8 +957,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/147828726_32x32.png?v=",
     "loves": 6,
     "favorites": 5,
-    "views": 41,
-    "weight": 1.8294003245348236,
+    "views": 47,
+    "weight": 1.8032736324281469,
     "username": "_Duplicate_"
   },
   {
@@ -929,10 +968,10 @@
     "shared": "2026-06-04T01:23:55.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1324607521_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/138650856_32x32.png?v=",
-    "loves": 98,
-    "favorites": 79,
-    "views": 561,
-    "weight": 1.8288620662024344,
+    "loves": 103,
+    "favorites": 84,
+    "views": 607,
+    "weight": 1.8027506364516315,
     "username": "TheMaskedEclipse"
   },
   {
@@ -945,7 +984,7 @@
     "loves": 21,
     "favorites": 18,
     "views": 65,
-    "weight": 1.825249140506697,
+    "weight": 1.7992400417703882,
     "username": "9memes999"
   },
   {
@@ -958,21 +997,8 @@
     "loves": 15,
     "favorites": 9,
     "views": 60,
-    "weight": 1.8221133896928734,
+    "weight": 1.796192946130506,
     "username": "BacKKat"
-  },
-  {
-    "count": 3,
-    "id": 1202020430,
-    "title": "Ozzy's Origins",
-    "shared": "2026-03-07T20:31:45.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1202020430_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/100220270_32x32.png?v=",
-    "loves": 1744,
-    "favorites": 1554,
-    "views": 11639,
-    "weight": 1.8189267390793968,
-    "username": "IncognitoOrange"
   },
   {
     "count": 2,
@@ -984,7 +1010,7 @@
     "loves": 332,
     "favorites": 274,
     "views": 3481,
-    "weight": 1.800116657638193,
+    "weight": 1.7873757446352936,
     "username": "MaterArc"
   },
   {
@@ -997,7 +1023,7 @@
     "loves": 3,
     "favorites": 3,
     "views": 40,
-    "weight": 1.795452318926716,
+    "weight": 1.7702796195768162,
     "username": "JamminFangora"
   },
   {
@@ -1010,8 +1036,21 @@
     "loves": 46,
     "favorites": 39,
     "views": 227,
-    "weight": 1.7941147928109686,
+    "weight": 1.7689793218804033,
     "username": "TheMaskedEclipse"
+  },
+  {
+    "count": 2,
+    "id": 1306601941,
+    "title": "Average American In America #all #animations #art #music",
+    "shared": "2026-04-18T15:00:02.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1306601941_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/143190146_32x32.png?v=",
+    "loves": 836,
+    "favorites": 751,
+    "views": 5089,
+    "weight": 1.7619227551427568,
+    "username": "GreenIsBAd"
   },
   {
     "count": 1,
@@ -1023,7 +1062,7 @@
     "loves": 81,
     "favorites": 75,
     "views": 238,
-    "weight": 1.7862499258000128,
+    "weight": 1.761332814443803,
     "username": "-Hawk_Heart-"
   },
   {
@@ -1036,21 +1075,8 @@
     "loves": 6,
     "favorites": 6,
     "views": 37,
-    "weight": 1.7757739607336656,
+    "weight": 1.751146244354158,
     "username": "Angle_5678"
-  },
-  {
-    "count": 2,
-    "id": 1306601941,
-    "title": "Average American In America #all #animations #art #music",
-    "shared": "2026-04-18T15:00:02.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1306601941_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/143190146_32x32.png?v=",
-    "loves": 836,
-    "favorites": 751,
-    "views": 5089,
-    "weight": 1.7743021232238338,
-    "username": "GreenIsBAd"
   },
   {
     "count": 1,
@@ -1062,7 +1088,7 @@
     "loves": 6,
     "favorites": 3,
     "views": 49,
-    "weight": 1.7731914268176014,
+    "weight": 1.7486347959478503,
     "username": "Brezel640"
   },
   {
@@ -1075,7 +1101,7 @@
     "loves": 101,
     "favorites": 86,
     "views": 781,
-    "weight": 1.767299305194946,
+    "weight": 1.74290447902466,
     "username": "SquidyTheOne"
   },
   {
@@ -1088,7 +1114,7 @@
     "loves": 7,
     "favorites": 2,
     "views": 88,
-    "weight": 1.75643925757993,
+    "weight": 1.7323412779917047,
     "username": "catth3w"
   },
   {
@@ -1100,9 +1126,22 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/160936642_32x32.png?v=",
     "loves": 8,
     "favorites": 7,
-    "views": 43,
-    "weight": 1.752697126829084,
+    "views": 44,
+    "weight": 1.7287010189476264,
     "username": "ChuckECheese77"
+  },
+  {
+    "count": 2,
+    "id": 1308147194,
+    "title": "Grillin'",
+    "shared": "2026-04-16T19:17:23.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1308147194_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/119189177_32x32.png?v=",
+    "loves": 3608,
+    "favorites": 3154,
+    "views": 101587,
+    "weight": 1.727280387138322,
+    "username": "-Adjust-"
   },
   {
     "count": 1,
@@ -1114,7 +1153,7 @@
     "loves": 51,
     "favorites": 30,
     "views": 196,
-    "weight": 1.746308608107445,
+    "weight": 1.7224859225146751,
     "username": "-Cardinalpaw-"
   },
   {
@@ -1126,8 +1165,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/97055579_32x32.png?v=",
     "loves": 17,
     "favorites": 16,
-    "views": 86,
-    "weight": 1.7437305010543778,
+    "views": 89,
+    "weight": 1.7199776248926972,
     "username": "WFlyToTheSky"
   },
   {
@@ -1140,21 +1179,21 @@
     "loves": 16,
     "favorites": 14,
     "views": 193,
-    "weight": 1.740010293595791,
+    "weight": 1.7163579743255042,
     "username": "IguanaLover_PT"
   },
   {
     "count": 2,
-    "id": 1308147194,
-    "title": "Grillin'",
-    "shared": "2026-04-16T19:17:23.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1308147194_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/119189177_32x32.png?v=",
-    "loves": 3608,
-    "favorites": 3154,
-    "views": 101587,
-    "weight": 1.739176099313879,
-    "username": "-Adjust-"
+    "id": 1307667256,
+    "title": "3d voxel test",
+    "shared": "2026-04-15T23:55:10.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1307667256_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/125749342_32x32.png?v=",
+    "loves": 41,
+    "favorites": 30,
+    "views": 250,
+    "weight": 1.712360597767639,
+    "username": "_yuzu-lemon_"
   },
   {
     "count": 1,
@@ -1166,7 +1205,7 @@
     "loves": 25,
     "favorites": 11,
     "views": 133,
-    "weight": 1.7344942530552983,
+    "weight": 1.7109906446242136,
     "username": "Ricky-Jan"
   },
   {
@@ -1179,7 +1218,7 @@
     "loves": 8,
     "favorites": 4,
     "views": 9,
-    "weight": 1.733229459628005,
+    "weight": 1.7097598844608388,
     "username": "-Scratch4Fun-"
   },
   {
@@ -1192,8 +1231,21 @@
     "loves": 81,
     "favorites": 59,
     "views": 227,
-    "weight": 1.732854899282443,
+    "weight": 1.7093953981768608,
     "username": "porplebloob"
+  },
+  {
+    "count": 2,
+    "id": 1307432957,
+    "title": "the most epic sauce legendary 3d engine ever",
+    "shared": "2026-04-15T16:20:38.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1307432957_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/158268201_32x32.png?v=",
+    "loves": 53,
+    "favorites": 44,
+    "views": 331,
+    "weight": 1.7065954681358086,
+    "username": "ay-3-8910"
   },
   {
     "count": 1,
@@ -1205,7 +1257,7 @@
     "loves": 28,
     "favorites": 17,
     "views": 68,
-    "weight": 1.7297724576201137,
+    "weight": 1.706395779917929,
     "username": "DragonQueenZ"
   },
   {
@@ -1218,7 +1270,7 @@
     "loves": 33,
     "favorites": 25,
     "views": 116,
-    "weight": 1.7287864712107917,
+    "weight": 1.7054362558879677,
     "username": "-fishead-"
   },
   {
@@ -1230,8 +1282,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/160748139_32x32.png?v=",
     "loves": 2,
     "favorites": 1,
-    "views": 36,
-    "weight": 1.7261149560300946,
+    "views": 39,
+    "weight": 1.7028363658293029,
     "username": "starcrush3rz"
   },
   {
@@ -1244,21 +1296,8 @@
     "loves": 193,
     "favorites": 126,
     "views": 608,
-    "weight": 1.7251240917736734,
+    "weight": 1.701872039718451,
     "username": "Birdsaresocute"
-  },
-  {
-    "count": 2,
-    "id": 1307667256,
-    "title": "3d voxel test",
-    "shared": "2026-04-15T23:55:10.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1307667256_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/125749342_32x32.png?v=",
-    "loves": 41,
-    "favorites": 30,
-    "views": 250,
-    "weight": 1.724050998045609,
-    "username": "_yuzu-lemon_"
   },
   {
     "count": 1,
@@ -1270,21 +1309,8 @@
     "loves": 18,
     "favorites": 13,
     "views": 68,
-    "weight": 1.7229151205469533,
+    "weight": 1.6997221772379059,
     "username": "EpsilonX"
-  },
-  {
-    "count": 2,
-    "id": 1307432957,
-    "title": "the most epic sauce legendary 3d engine ever",
-    "shared": "2026-04-15T16:20:38.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1307432957_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/158268201_32x32.png?v=",
-    "loves": 53,
-    "favorites": 44,
-    "views": 331,
-    "weight": 1.7182070161819392,
-    "username": "ay-3-8910"
   },
   {
     "count": 1,
@@ -1296,7 +1322,7 @@
     "loves": 25,
     "favorites": 16,
     "views": 101,
-    "weight": 1.7131260855571855,
+    "weight": 1.690194188931475,
     "username": "Just_Gibberish"
   },
   {
@@ -1309,7 +1335,7 @@
     "loves": 43,
     "favorites": 3,
     "views": 140,
-    "weight": 1.7125182811667183,
+    "weight": 1.6896025449544465,
     "username": "spopweekend"
   },
   {
@@ -1322,7 +1348,7 @@
     "loves": 164,
     "favorites": 137,
     "views": 519,
-    "weight": 1.7118867406578542,
+    "weight": 1.6889877900059753,
     "username": "Shadow_06735"
   },
   {
@@ -1335,7 +1361,7 @@
     "loves": 32,
     "favorites": 30,
     "views": 63,
-    "weight": 1.7087930410495134,
+    "weight": 1.6859762294196776,
     "username": "SaltyLightning_110"
   },
   {
@@ -1348,7 +1374,7 @@
     "loves": 23,
     "favorites": 13,
     "views": 156,
-    "weight": 1.7067259625407436,
+    "weight": 1.6839639515659235,
     "username": "man-o-valor"
   },
   {
@@ -1361,7 +1387,7 @@
     "loves": 349,
     "favorites": 293,
     "views": 2046,
-    "weight": 1.7065565651149215,
+    "weight": 1.6837990421809028,
     "username": "GazerOfStars"
   },
   {
@@ -1371,10 +1397,10 @@
     "shared": "2026-05-31T20:48:25.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1326987602_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/166843074_32x32.png?v=",
-    "loves": 12,
-    "favorites": 7,
-    "views": 30,
-    "weight": 1.704507920852624,
+    "loves": 13,
+    "favorites": 8,
+    "views": 32,
+    "weight": 1.6818046404395977,
     "username": "tunakaruu"
   },
   {
@@ -1387,7 +1413,7 @@
     "loves": 12,
     "favorites": 4,
     "views": 51,
-    "weight": 1.7040078703686012,
+    "weight": 1.6813178202351085,
     "username": "TempestTheEspeon-"
   },
   {
@@ -1400,7 +1426,7 @@
     "loves": 1025,
     "favorites": 868,
     "views": 3389,
-    "weight": 1.7030573234560444,
+    "weight": 1.6803924122961011,
     "username": "GazerOfStars"
   },
   {
@@ -1413,7 +1439,7 @@
     "loves": 17,
     "favorites": 15,
     "views": 82,
-    "weight": 1.700337509591117,
+    "weight": 1.677744452998727,
     "username": "DH_on_scratch"
   },
   {
@@ -1426,7 +1452,7 @@
     "loves": 19,
     "favorites": 17,
     "views": 125,
-    "weight": 1.6970340945686584,
+    "weight": 1.6745281592767691,
     "username": "Ricky-Jan"
   },
   {
@@ -1439,7 +1465,7 @@
     "loves": 36,
     "favorites": 25,
     "views": 102,
-    "weight": 1.677969130015924,
+    "weight": 1.6559627517570898,
     "username": "asavage-code"
   },
   {
@@ -1452,7 +1478,7 @@
     "loves": 25,
     "favorites": 14,
     "views": 78,
-    "weight": 1.6765568266621187,
+    "weight": 1.654587234705468,
     "username": "fIufi-"
   },
   {
@@ -1465,7 +1491,7 @@
     "loves": 19,
     "favorites": 15,
     "views": 64,
-    "weight": 1.6737138069296051,
+    "weight": 1.6518181754796075,
     "username": "Toasted-Cheese"
   },
   {
@@ -1478,7 +1504,7 @@
     "loves": 8,
     "favorites": 6,
     "views": 50,
-    "weight": 1.6724191186121238,
+    "weight": 1.6505571268246226,
     "username": "WFlyToTheSky"
   },
   {
@@ -1491,7 +1517,7 @@
     "loves": 894,
     "favorites": 690,
     "views": 5073,
-    "weight": 1.6558630916958312,
+    "weight": 1.6450762452426773,
     "username": "man-o-valor"
   },
   {
@@ -1503,8 +1529,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/148100050_32x32.png?v=",
     "loves": 10,
     "favorites": 8,
-    "views": 77,
-    "weight": 1.6556520243878032,
+    "views": 78,
+    "weight": 1.6342233883157429,
     "username": "Also-Vynalla"
   },
   {
@@ -1517,7 +1543,7 @@
     "loves": 22,
     "favorites": 20,
     "views": 131,
-    "weight": 1.6488509132580034,
+    "weight": 1.6275968353130523,
     "username": "Classic_Slash"
   },
   {
@@ -1529,8 +1555,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/164671176_32x32.png?v=",
     "loves": 6,
     "favorites": 5,
-    "views": 126,
-    "weight": 1.642497222998079,
+    "views": 127,
+    "weight": 1.6214055829459186,
     "username": "AppleDESS"
   },
   {
@@ -1542,8 +1568,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/121776161_32x32.png?v=",
     "loves": 17,
     "favorites": 9,
-    "views": 70,
-    "weight": 1.6351781736091864,
+    "views": 73,
+    "weight": 1.614272889327343,
     "username": "EGGleaderz"
   },
   {
@@ -1556,7 +1582,7 @@
     "loves": 87,
     "favorites": 77,
     "views": 357,
-    "weight": 1.62902442893306,
+    "weight": 1.6082751983576173,
     "username": "TNT-2"
   },
   {
@@ -1569,7 +1595,7 @@
     "loves": 13,
     "favorites": 11,
     "views": 60,
-    "weight": 1.6241298730960347,
+    "weight": 1.6035043514887068,
     "username": "jalternative"
   },
   {
@@ -1579,10 +1605,10 @@
     "shared": "2026-05-29T12:26:23.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1318403100_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/86101553_32x32.png?v=",
-    "loves": 11,
+    "loves": 12,
     "favorites": 10,
-    "views": 80,
-    "weight": 1.6232777682511585,
+    "views": 81,
+    "weight": 1.602673746175584,
     "username": "MewginShallRule117"
   },
   {
@@ -1595,7 +1621,7 @@
     "loves": 11,
     "favorites": 11,
     "views": 143,
-    "weight": 1.618942264198166,
+    "weight": 1.5984474601728897,
     "username": "Colvrerr"
   },
   {
@@ -1607,8 +1633,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/78943994_32x32.png?v=",
     "loves": 40,
     "favorites": 24,
-    "views": 247,
-    "weight": 1.6119702624332342,
+    "views": 251,
+    "weight": 1.591650492948147,
     "username": "Crystal_0805"
   },
   {
@@ -1621,7 +1647,7 @@
     "loves": 247,
     "favorites": 166,
     "views": 944,
-    "weight": 1.5999128591906533,
+    "weight": 1.5798940460149555,
     "username": "rainbowleenie"
   },
   {
@@ -1634,8 +1660,21 @@
     "loves": 8,
     "favorites": 5,
     "views": 90,
-    "weight": 1.586109191100349,
+    "weight": 1.5762092866463888,
     "username": "Echo-517"
+  },
+  {
+    "count": 9,
+    "id": 169477788,
+    "title": "A Map of Scratch",
+    "shared": "2025-04-15T13:41:43.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/169477788_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/14617269_32x32.png?v=",
+    "loves": 5287,
+    "favorites": 4710,
+    "views": 43148,
+    "weight": 1.5690914439688235,
+    "username": "Mr-Mathmatical"
   },
   {
     "count": 1,
@@ -1646,8 +1685,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/75054853_32x32.png?v=",
     "loves": 53,
     "favorites": 44,
-    "views": 384,
-    "weight": 1.5729502465985583,
+    "views": 388,
+    "weight": 1.5535964026119267,
     "username": "Pickle_Powder"
   },
   {
@@ -1660,21 +1699,8 @@
     "loves": 3,
     "favorites": 2,
     "views": 11,
-    "weight": 1.5720258391294426,
+    "weight": 1.5526945968028951,
     "username": "Extreme_Fox_Coder"
-  },
-  {
-    "count": 9,
-    "id": 169477788,
-    "title": "A Map of Scratch",
-    "shared": "2025-04-15T13:41:43.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/169477788_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/14617269_32x32.png?v=",
-    "loves": 5287,
-    "favorites": 4710,
-    "views": 43148,
-    "weight": 1.5712609862343108,
-    "username": "Mr-Mathmatical"
   },
   {
     "count": 1,
@@ -1686,7 +1712,7 @@
     "loves": 132,
     "favorites": 119,
     "views": 899,
-    "weight": 1.5664705347426129,
+    "weight": 1.5472748442834248,
     "username": "--EpicAnimator--"
   },
   {
@@ -1696,10 +1722,10 @@
     "shared": "2026-05-27T04:02:30.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1325386438_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/100345801_32x32.png?v=",
-    "loves": 2149,
-    "favorites": 1834,
-    "views": 39763,
-    "weight": 1.5493991025558056,
+    "loves": 2171,
+    "favorites": 1853,
+    "views": 40347,
+    "weight": 1.5306170141794233,
     "username": "Bidgk"
   },
   {
@@ -1712,8 +1738,21 @@
     "loves": 10,
     "favorites": 7,
     "views": 35,
-    "weight": 1.5479174879438846,
+    "weight": 1.5291710858732088,
     "username": "ChewedToothpicks"
+  },
+  {
+    "count": 2,
+    "id": 1297628768,
+    "title": "▪ ▢ Tile and Error ▢ ▪",
+    "shared": "2026-04-04T17:43:04.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1297628768_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/166543689_32x32.png?v=",
+    "loves": 198,
+    "favorites": 164,
+    "views": 1875,
+    "weight": 1.528224406445799,
+    "username": "-360coder-"
   },
   {
     "count": 1,
@@ -1725,7 +1764,7 @@
     "loves": 30,
     "favorites": 17,
     "views": 141,
-    "weight": 1.543807103537717,
+    "weight": 1.5251595290554418,
     "username": "asavage-code"
   },
   {
@@ -1738,7 +1777,7 @@
     "loves": 46,
     "favorites": 26,
     "views": 147,
-    "weight": 1.5423075949067866,
+    "weight": 1.5236960094645542,
     "username": "oragfunny"
   },
   {
@@ -1750,22 +1789,9 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/164593256_32x32.png?v=",
     "loves": 91,
     "favorites": 67,
-    "views": 925,
-    "weight": 1.5384997910425922,
+    "views": 933,
+    "weight": 1.5199794406771607,
     "username": "-TeamInnovation-"
-  },
-  {
-    "count": 2,
-    "id": 1297628768,
-    "title": "▪ ▢ Tile and Error ▢ ▪",
-    "shared": "2026-04-04T17:43:04.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1297628768_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/166543689_32x32.png?v=",
-    "loves": 195,
-    "favorites": 162,
-    "views": 1862,
-    "weight": 1.5375289370545178,
-    "username": "-360coder-"
   },
   {
     "count": 1,
@@ -1774,10 +1800,10 @@
     "shared": "2026-05-26T16:57:37.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1323279141_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/85017068_32x32.png?v=",
-    "loves": 575,
-    "favorites": 428,
-    "views": 1994,
-    "weight": 1.535666489753162,
+    "loves": 591,
+    "favorites": 438,
+    "views": 2079,
+    "weight": 1.5172138816556038,
     "username": "Llamapawa"
   },
   {
@@ -1790,7 +1816,7 @@
     "loves": 11,
     "favorites": 11,
     "views": 62,
-    "weight": 1.52285361322025,
+    "weight": 1.5047058208372828,
     "username": "hongzhiyu"
   },
   {
@@ -1803,7 +1829,7 @@
     "loves": 20,
     "favorites": 17,
     "views": 115,
-    "weight": 1.5200906324658228,
+    "weight": 1.5020082420620504,
     "username": "GreenCubeBFFM"
   },
   {
@@ -1816,7 +1842,7 @@
     "loves": 244,
     "favorites": 187,
     "views": 1374,
-    "weight": 1.5181568351831216,
+    "weight": 1.500120149922711,
     "username": "FUZZIE-WEASEL"
   },
   {
@@ -1829,7 +1855,7 @@
     "loves": 6,
     "favorites": 2,
     "views": 69,
-    "weight": 1.516712708351219,
+    "weight": 1.4987101176392927,
     "username": "astralpearl"
   },
   {
@@ -1842,7 +1868,7 @@
     "loves": 64,
     "favorites": 49,
     "views": 498,
-    "weight": 1.513191399379206,
+    "weight": 1.4952718100304567,
     "username": "-tacky"
   },
   {
@@ -1852,10 +1878,10 @@
     "shared": "2026-05-25T20:43:22.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1323572611_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/150531558_32x32.png?v=",
-    "loves": 98,
-    "favorites": 81,
-    "views": 992,
-    "weight": 1.5112053869090123,
+    "loves": 100,
+    "favorites": 84,
+    "views": 1016,
+    "weight": 1.4933325266111355,
     "username": "MUSICLOUNGE"
   },
   {
@@ -1868,7 +1894,7 @@
     "loves": 16,
     "favorites": 11,
     "views": 134,
-    "weight": 1.5102121895254867,
+    "weight": 1.4923626756382053,
     "username": "IguanaLover_PT"
   },
   {
@@ -1881,7 +1907,7 @@
     "loves": 5,
     "favorites": 3,
     "views": 14,
-    "weight": 1.5073564447549164,
+    "weight": 1.4895739749017463,
     "username": "EllaMak01"
   },
   {
@@ -1894,7 +1920,7 @@
     "loves": 28,
     "favorites": 29,
     "views": 79,
-    "weight": 1.506631305271385,
+    "weight": 1.4888658396000127,
     "username": "jalternative"
   },
   {
@@ -1906,9 +1932,22 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/166612449_32x32.png?v=",
     "loves": 6,
     "favorites": 4,
-    "views": 18,
-    "weight": 1.5058330465869127,
+    "views": 19,
+    "weight": 1.4880862904140995,
     "username": "capybaraultrafan"
+  },
+  {
+    "count": 2,
+    "id": 1297129827,
+    "title": "dude.....",
+    "shared": "2026-04-01T14:09:15.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1297129827_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/87876456_32x32.png?v=",
+    "loves": 262,
+    "favorites": 136,
+    "views": 1050,
+    "weight": 1.4836086791986909,
+    "username": "Lagonish"
   },
   {
     "count": 1,
@@ -1920,7 +1959,7 @@
     "loves": 181,
     "favorites": 168,
     "views": 983,
-    "weight": 1.501194540045214,
+    "weight": 1.483556307922173,
     "username": "AwesomeKat-1"
   },
   {
@@ -1933,7 +1972,7 @@
     "loves": 13,
     "favorites": 9,
     "views": 108,
-    "weight": 1.4991423223935483,
+    "weight": 1.4815519996858117,
     "username": "KipAssets"
   },
   {
@@ -1946,8 +1985,21 @@
     "loves": 264,
     "favorites": 178,
     "views": 819,
-    "weight": 1.498211025165735,
+    "weight": 1.4806424225309585,
     "username": "Birdsaresocute"
+  },
+  {
+    "count": 2,
+    "id": 1279659964,
+    "title": "Compass: Vagabond - Pre-Release V9.1",
+    "shared": "2026-04-01T02:30:40.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1279659964_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/88691857_32x32.png?v=",
+    "loves": 159,
+    "favorites": 154,
+    "views": 1276,
+    "weight": 1.4769647462643671,
+    "username": "ChuckSploder"
   },
   {
     "count": 1,
@@ -1956,24 +2008,11 @@
     "shared": "2026-05-25T05:38:49.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1321376039_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/61237429_32x32.png?v=",
-    "loves": 168,
-    "favorites": 135,
-    "views": 875,
-    "weight": 1.493483739545508,
-    "username": "cheekybubba5"
-  },
-  {
-    "count": 2,
-    "id": 1297129827,
-    "title": "dude.....",
-    "shared": "2026-04-01T14:09:15.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1297129827_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/87876456_32x32.png?v=",
-    "loves": 262,
+    "loves": 169,
     "favorites": 136,
-    "views": 1050,
-    "weight": 1.4923762997955372,
-    "username": "Lagonish"
+    "views": 885,
+    "weight": 1.4760251839955028,
+    "username": "cheekybubba5"
   },
   {
     "count": 1,
@@ -1982,10 +2021,10 @@
     "shared": "2026-05-25T02:20:56.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/947689874_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/49947260_32x32.png?v=",
-    "loves": 51,
-    "favorites": 38,
-    "views": 366,
-    "weight": 1.4896621414000222,
+    "loves": 54,
+    "favorites": 39,
+    "views": 394,
+    "weight": 1.4722922998613432,
     "username": "Gherwit"
   },
   {
@@ -1998,21 +2037,8 @@
     "loves": 17,
     "favorites": 12,
     "views": 163,
-    "weight": 1.4858482329425102,
+    "weight": 1.4685667036219623,
     "username": "WizWazWuzWez"
-  },
-  {
-    "count": 2,
-    "id": 1279659964,
-    "title": "Compass: Vagabond - Pre-Release V9.1",
-    "shared": "2026-04-01T02:30:40.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1279659964_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/88691857_32x32.png?v=",
-    "loves": 159,
-    "favorites": 154,
-    "views": 1276,
-    "weight": 1.48565378598884,
-    "username": "ChuckSploder"
   },
   {
     "count": 1,
@@ -2024,7 +2050,7 @@
     "loves": 2,
     "favorites": 2,
     "views": 20,
-    "weight": 1.4848520303480304,
+    "weight": 1.4675935318447069,
     "username": "CarbonBasedCheese"
   },
   {
@@ -2037,21 +2063,21 @@
     "loves": 3043,
     "favorites": 2647,
     "views": 158213,
-    "weight": 1.4841869373790373,
+    "weight": 1.4669438064502254,
     "username": "ItsPixelotl"
   },
   {
     "count": 1,
-    "id": 1324030838,
-    "title": "My Masterpiece.",
-    "shared": "2026-05-24T02:27:08.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1324030838_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/97860764_32x32.png?v=",
-    "loves": 10,
-    "favorites": 8,
-    "views": 52,
-    "weight": 1.462545661489664,
-    "username": "SirBob_Art"
+    "id": 1277768899,
+    "title": "OVERLOAD: OVERHAUL",
+    "shared": "2026-05-24T15:00:09.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1277768899_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/30911786_32x32.png?v=",
+    "loves": 75,
+    "favorites": 64,
+    "views": 657,
+    "weight": 1.4595929283844344,
+    "username": "prodforer"
   },
   {
     "count": 3,
@@ -2063,34 +2089,8 @@
     "loves": 2419,
     "favorites": 2290,
     "views": 16790,
-    "weight": 1.462416582201477,
+    "weight": 1.4567923720233658,
     "username": "GL00B"
-  },
-  {
-    "count": 1,
-    "id": 1312048764,
-    "title": "⇒ Part 8 - Revived MAP",
-    "shared": "2026-05-23T22:12:02.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1312048764_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/166897138_32x32.png?v=",
-    "loves": 85,
-    "favorites": 49,
-    "views": 454,
-    "weight": 1.4578242420784577,
-    "username": "v3ry4n0nym0us"
-  },
-  {
-    "count": 1,
-    "id": 1323393664,
-    "title": "Untitled-8 remix",
-    "shared": "2026-05-23T19:55:54.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1323393664_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/165264844_32x32.png?v=",
-    "loves": 6,
-    "favorites": 4,
-    "views": 44,
-    "weight": 1.4553171238940017,
-    "username": "tissuecatt"
   },
   {
     "count": 2,
@@ -2102,8 +2102,47 @@
     "loves": 206,
     "favorites": 159,
     "views": 1450,
-    "weight": 1.4543171016649539,
+    "weight": 1.4459897220205342,
     "username": "Crystal_Mage"
+  },
+  {
+    "count": 1,
+    "id": 1324030838,
+    "title": "My Masterpiece.",
+    "shared": "2026-05-24T02:27:08.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1324030838_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/97860764_32x32.png?v=",
+    "loves": 10,
+    "favorites": 8,
+    "views": 52,
+    "weight": 1.4457988797258756,
+    "username": "SirBob_Art"
+  },
+  {
+    "count": 1,
+    "id": 1312048764,
+    "title": "⇒ Part 8 - Revived MAP",
+    "shared": "2026-05-23T22:12:02.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1312048764_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/166897138_32x32.png?v=",
+    "loves": 85,
+    "favorites": 49,
+    "views": 454,
+    "weight": 1.4411847953180095,
+    "username": "v3ry4n0nym0us"
+  },
+  {
+    "count": 1,
+    "id": 1323393664,
+    "title": "Untitled-8 remix",
+    "shared": "2026-05-23T19:55:54.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1323393664_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/165264844_32x32.png?v=",
+    "loves": 6,
+    "favorites": 4,
+    "views": 45,
+    "weight": 1.4387345343637643,
+    "username": "tissuecatt"
   },
   {
     "count": 1,
@@ -2115,7 +2154,7 @@
     "loves": 57,
     "favorites": 41,
     "views": 151,
-    "weight": 1.4531903383472253,
+    "weight": 1.4366559053275718,
     "username": "Sunfiish"
   },
   {
@@ -2128,7 +2167,7 @@
     "loves": 108,
     "favorites": 96,
     "views": 655,
-    "weight": 1.4529813919311287,
+    "weight": 1.4364516863215324,
     "username": "-kippie-"
   },
   {
@@ -2141,7 +2180,7 @@
     "loves": 11,
     "favorites": 10,
     "views": 61,
-    "weight": 1.451930545659637,
+    "weight": 1.4354246053029192,
     "username": "SillyChipmunk7"
   },
   {
@@ -2153,8 +2192,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/161871158_32x32.png?v=",
     "loves": 121,
     "favorites": 111,
-    "views": 505,
-    "weight": 1.4492008272069352,
+    "views": 508,
+    "weight": 1.4327565414032255,
     "username": "Walliplay"
   },
   {
@@ -2167,7 +2206,7 @@
     "loves": 16,
     "favorites": 16,
     "views": 72,
-    "weight": 1.441350878184405,
+    "weight": 1.4250832589585536,
     "username": "KT_restart"
   },
   {
@@ -2179,8 +2218,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/114430340_32x32.png?v=",
     "loves": 49,
     "favorites": 37,
-    "views": 625,
-    "weight": 1.4357488991605631,
+    "views": 643,
+    "weight": 1.4196067781277213,
     "username": "Pocolilman"
   },
   {
@@ -2193,7 +2232,7 @@
     "loves": 237,
     "favorites": 202,
     "views": 2515,
-    "weight": 1.413228227157368,
+    "weight": 1.4079753151681853,
     "username": "PokeNinjaGuy"
   },
   {
@@ -2206,7 +2245,7 @@
     "loves": 601,
     "favorites": 558,
     "views": 7154,
-    "weight": 1.4132267825112215,
+    "weight": 1.4079738811458553,
     "username": "-RipeMangoes-"
   },
   {
@@ -2219,7 +2258,7 @@
     "loves": 1,
     "favorites": 1,
     "views": 36,
-    "weight": 1.41191861741208,
+    "weight": 1.3963049833739622,
     "username": "frost307"
   },
   {
@@ -2232,7 +2271,7 @@
     "loves": 27,
     "favorites": 22,
     "views": 116,
-    "weight": 1.4077099798621242,
+    "weight": 1.3921887775014488,
     "username": "W0LFZZ_Animates"
   },
   {
@@ -2245,7 +2284,7 @@
     "loves": 3,
     "favorites": 3,
     "views": 27,
-    "weight": 1.39904095050609,
+    "weight": 1.3837092853744932,
     "username": "maryland123413"
   },
   {
@@ -2258,7 +2297,7 @@
     "loves": 254,
     "favorites": 229,
     "views": 1552,
-    "weight": 1.3698085427587174,
+    "weight": 1.3624183732222233,
     "username": "MasterLocke86"
   },
   {
@@ -2271,7 +2310,7 @@
     "loves": 7,
     "favorites": 7,
     "views": 45,
-    "weight": 1.3452979490292623,
+    "weight": 1.331115595892647,
     "username": "cellulose3D"
   },
   {
@@ -2283,8 +2322,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/168512905_32x32.png?v=",
     "loves": 5,
     "favorites": 5,
-    "views": 29,
-    "weight": 1.3440543202913682,
+    "views": 30,
+    "weight": 1.3298980381546743,
     "username": "kakacacakai"
   },
   {
@@ -2296,8 +2335,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/154939750_32x32.png?v=",
     "loves": 17,
     "favorites": 9,
-    "views": 107,
-    "weight": 1.3408377068598347,
+    "views": 108,
+    "weight": 1.3267487466138657,
     "username": "1_Am_A_Nerd"
   },
   {
@@ -2309,8 +2348,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/141137530_32x32.png?v=",
     "loves": 13,
     "favorites": 9,
-    "views": 122,
-    "weight": 1.3382808178545336,
+    "views": 125,
+    "weight": 1.324245258575822,
     "username": "boopyisdead"
   },
   {
@@ -2322,8 +2361,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/143087578_32x32.png?v=",
     "loves": 6,
     "favorites": 4,
-    "views": 60,
-    "weight": 1.3287186266457007,
+    "views": 61,
+    "weight": 1.3148818857438829,
     "username": "badkittystudios"
   },
   {
@@ -2336,34 +2375,8 @@
     "loves": 3,
     "favorites": 3,
     "views": 50,
-    "weight": 1.3046055139877208,
+    "weight": 1.2912639033046114,
     "username": "Wooper_G"
-  },
-  {
-    "count": 1,
-    "id": 1281493244,
-    "title": "Untitled-8",
-    "shared": "2026-05-17T06:16:19.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1281493244_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/89540137_32x32.png?v=",
-    "loves": 61,
-    "favorites": 34,
-    "views": 281,
-    "weight": 1.2999676736669963,
-    "username": "LuneRaptor"
-  },
-  {
-    "count": 1,
-    "id": 1321080304,
-    "title": "MythicGPT 2 - Real AI GPT fully in Scratch (works offline)",
-    "shared": "2026-05-16T23:57:53.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1321080304_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/88774833_32x32.png?v=",
-    "loves": 6,
-    "favorites": 4,
-    "views": 88,
-    "weight": 1.2944398861164597,
-    "username": "QuadCat"
   },
   {
     "count": 2,
@@ -2372,11 +2385,24 @@
     "shared": "2026-03-16T03:52:27.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1280670281_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/125897523_32x32.png?v=",
-    "loves": 320,
-    "favorites": 258,
-    "views": 1542,
-    "weight": 1.2940806406630192,
+    "loves": 322,
+    "favorites": 260,
+    "views": 1544,
+    "weight": 1.2874830268311106,
     "username": "Aj-i-guess"
+  },
+  {
+    "count": 1,
+    "id": 1281493244,
+    "title": "Untitled-8",
+    "shared": "2026-05-17T06:16:19.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1281493244_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/89540137_32x32.png?v=",
+    "loves": 62,
+    "favorites": 35,
+    "views": 283,
+    "weight": 1.2867202711948833,
+    "username": "LuneRaptor"
   },
   {
     "count": 3,
@@ -2388,8 +2414,21 @@
     "loves": 919,
     "favorites": 813,
     "views": 4166,
-    "weight": 1.290321673909631,
+    "weight": 1.2859412926244964,
     "username": "Derble"
+  },
+  {
+    "count": 1,
+    "id": 1321080304,
+    "title": "MythicGPT 2 - Real AI GPT fully in Scratch (works offline)",
+    "shared": "2026-05-16T23:57:53.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1321080304_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/88774833_32x32.png?v=",
+    "loves": 6,
+    "favorites": 4,
+    "views": 88,
+    "weight": 1.281304337206339,
+    "username": "QuadCat"
   },
   {
     "count": 1,
@@ -2401,21 +2440,8 @@
     "loves": 4,
     "favorites": 4,
     "views": 67,
-    "weight": 1.2897747506978345,
+    "weight": 1.2767332347303315,
     "username": "lyanna9ryan"
-  },
-  {
-    "count": 1,
-    "id": 1320614560,
-    "title": "Fast Rectangle Filler2 長方形描画2 回転可能",
-    "shared": "2026-05-16T05:53:08.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1320614560_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/50636312_32x32.png?v=",
-    "loves": 21,
-    "favorites": 18,
-    "views": 280,
-    "weight": 1.2788522791021766,
-    "username": "nakakouTV"
   },
   {
     "count": 2,
@@ -2427,8 +2453,21 @@
     "loves": 7911,
     "favorites": 7170,
     "views": 153358,
-    "weight": 1.2760401057385575,
+    "weight": 1.2696247059022376,
     "username": "griffpatch"
+  },
+  {
+    "count": 1,
+    "id": 1320614560,
+    "title": "Fast Rectangle Filler2 長方形描画2 回転可能",
+    "shared": "2026-05-16T05:53:08.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1320614560_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/50636312_32x32.png?v=",
+    "loves": 21,
+    "favorites": 18,
+    "views": 280,
+    "weight": 1.2660296143020504,
+    "username": "nakakouTV"
   },
   {
     "count": 1,
@@ -2440,7 +2479,7 @@
     "loves": 95,
     "favorites": 36,
     "views": 245,
-    "weight": 1.27217253606347,
+    "weight": 1.2594828086033978,
     "username": "lychiez"
   },
   {
@@ -2452,8 +2491,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/109457581_32x32.png?v=",
     "loves": 29,
     "favorites": 28,
-    "views": 181,
-    "weight": 1.2704363684049047,
+    "views": 183,
+    "weight": 1.257781080822343,
     "username": "Seker_films"
   },
   {
@@ -2463,10 +2502,10 @@
     "shared": "2026-05-15T15:58:25.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1315680698_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/100392553_32x32.png?v=",
-    "loves": 529,
-    "favorites": 393,
-    "views": 1944,
-    "weight": 1.2671108329249612,
+    "loves": 536,
+    "favorites": 397,
+    "views": 1968,
+    "weight": 1.2545213841390925,
     "username": "Starpsychic"
   },
   {
@@ -2479,7 +2518,7 @@
     "loves": 23,
     "favorites": 25,
     "views": 171,
-    "weight": 1.2610254681766264,
+    "weight": 1.248556056977559,
     "username": "eakonn705"
   },
   {
@@ -2492,7 +2531,7 @@
     "loves": 10,
     "favorites": 6,
     "views": 22,
-    "weight": 1.2431996124610107,
+    "weight": 1.231078550434694,
     "username": "That_Bookworm_Dude"
   },
   {
@@ -2502,10 +2541,10 @@
     "shared": "2026-05-13T18:07:25.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1316198127_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/85017068_32x32.png?v=",
-    "loves": 491,
-    "favorites": 331,
-    "views": 1660,
-    "weight": 1.2298955815822048,
+    "loves": 497,
+    "favorites": 333,
+    "views": 1682,
+    "weight": 1.2180313192784333,
     "username": "Llamapawa"
   },
   {
@@ -2517,8 +2556,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/138650856_32x32.png?v=",
     "loves": 220,
     "favorites": 190,
-    "views": 1707,
-    "weight": 1.2222848098633146,
+    "views": 1708,
+    "weight": 1.216397296576437,
     "username": "TheMaskedEclipse"
   },
   {
@@ -2531,7 +2570,7 @@
     "loves": 161,
     "favorites": 118,
     "views": 698,
-    "weight": 1.2212011344499882,
+    "weight": 1.2095032245325343,
     "username": "-thunderous"
   },
   {
@@ -2544,7 +2583,7 @@
     "loves": 29,
     "favorites": 4,
     "views": 109,
-    "weight": 1.218777361508786,
+    "weight": 1.2071256187271286,
     "username": "theatelier"
   },
   {
@@ -2557,7 +2596,7 @@
     "loves": 2384,
     "favorites": 2082,
     "views": 87624,
-    "weight": 1.210893702924088,
+    "weight": 1.2051151564734701,
     "username": "JukeboxGames"
   },
   {
@@ -2570,7 +2609,7 @@
     "loves": 62,
     "favorites": 53,
     "views": 625,
-    "weight": 1.2099200223032514,
+    "weight": 1.1984362221600091,
     "username": "Lyniexx"
   },
   {
@@ -2580,10 +2619,10 @@
     "shared": "2026-05-12T15:57:43.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1317262762_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/163091456_32x32.png?v=",
-    "loves": 135,
-    "favorites": 96,
-    "views": 509,
-    "weight": 1.2096242211827584,
+    "loves": 136,
+    "favorites": 97,
+    "views": 514,
+    "weight": 1.1981460086273388,
     "username": "thousands_ofstars"
   },
   {
@@ -2595,8 +2634,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/161656649_32x32.png?v=",
     "loves": 192,
     "favorites": 112,
-    "views": 466,
-    "weight": 1.1990481945023637,
+    "views": 469,
+    "weight": 1.1877688820935923,
     "username": "how2notcrashout"
   },
   {
@@ -2609,7 +2648,7 @@
     "loves": 8,
     "favorites": 6,
     "views": 59,
-    "weight": 1.1833824560235984,
+    "weight": 1.1723945995285345,
     "username": "catth3w"
   },
   {
@@ -2619,10 +2658,10 @@
     "shared": "2026-05-10T22:57:37.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1318352992_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/135779863_32x32.png?v=",
-    "loves": 34,
-    "favorites": 39,
-    "views": 938,
-    "weight": 1.1791645527465113,
+    "loves": 35,
+    "favorites": 41,
+    "views": 960,
+    "weight": 1.1682545231319414,
     "username": "BBTLEOfficialScratch"
   },
   {
@@ -2635,7 +2674,7 @@
     "loves": 211,
     "favorites": 177,
     "views": 948,
-    "weight": 1.174113389935744,
+    "weight": 1.163296201530635,
     "username": "Shadow_06735"
   },
   {
@@ -2647,8 +2686,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/40986292_32x32.png?v=",
     "loves": 127,
     "favorites": 123,
-    "views": 803,
-    "weight": 1.1725309598483493,
+    "views": 805,
+    "weight": 1.1617427761089552,
     "username": "scratchy-coder"
   },
   {
@@ -2661,7 +2700,7 @@
     "loves": 55,
     "favorites": 49,
     "views": 395,
-    "weight": 1.1722120035976809,
+    "weight": 1.1614296611625632,
     "username": "Sweetgrapes22"
   },
   {
@@ -2674,7 +2713,7 @@
     "loves": 77,
     "favorites": 68,
     "views": 719,
-    "weight": 1.1714084232569548,
+    "weight": 1.160640790982986,
     "username": "jenton2001"
   },
   {
@@ -2687,7 +2726,7 @@
     "loves": 2,
     "favorites": 2,
     "views": 30,
-    "weight": 1.171338348487049,
+    "weight": 1.1605719985144631,
     "username": "mynameis67ilike67"
   },
   {
@@ -2700,7 +2739,7 @@
     "loves": 3,
     "favorites": 2,
     "views": 28,
-    "weight": 1.167210643030979,
+    "weight": 1.156519692644337,
     "username": "breakfast_for_dinner"
   },
   {
@@ -2712,8 +2751,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/128962706_32x32.png?v=",
     "loves": 32,
     "favorites": 26,
-    "views": 244,
-    "weight": 1.1638565376663925,
+    "views": 246,
+    "weight": 1.1532266624064285,
     "username": "Yeety-chan"
   },
   {
@@ -2726,7 +2765,7 @@
     "loves": 17,
     "favorites": 12,
     "views": 41,
-    "weight": 1.1638206758007525,
+    "weight": 1.1531914526152258,
     "username": "shad0wB0nniEMo0n278"
   },
   {
@@ -2739,7 +2778,7 @@
     "loves": 7,
     "favorites": 4,
     "views": 21,
-    "weight": 1.1603482623008268,
+    "weight": 1.1497820839657846,
     "username": "That_guy_named_Snail"
   },
   {
@@ -2752,7 +2791,7 @@
     "loves": 11,
     "favorites": 7,
     "views": 75,
-    "weight": 1.1551361382060814,
+    "weight": 1.144664241973135,
     "username": "KoreanFr1end"
   },
   {
@@ -2765,7 +2804,7 @@
     "loves": 9,
     "favorites": 6,
     "views": 53,
-    "weight": 1.1549898272641745,
+    "weight": 1.1445205716080349,
     "username": "that1juicebox"
   },
   {
@@ -2778,7 +2817,7 @@
     "loves": 18,
     "favorites": 10,
     "views": 75,
-    "weight": 1.1546865142359308,
+    "weight": 1.144222731633059,
     "username": "fauvie"
   },
   {
@@ -2790,22 +2829,9 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/45986720_32x32.png?v=",
     "loves": 8,
     "favorites": 9,
-    "views": 88,
-    "weight": 1.1511601724392173,
+    "views": 89,
+    "weight": 1.1407599159207724,
     "username": "cherryowl"
-  },
-  {
-    "count": 1,
-    "id": 1317833734,
-    "title": "How Bad Can I Be - 13",
-    "shared": "2026-05-08T20:29:58.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1317833734_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/157876957_32x32.png?v=",
-    "loves": 9,
-    "favorites": 7,
-    "views": 78,
-    "weight": 1.143720172578975,
-    "username": "Wandoof-alt"
   },
   {
     "count": 2,
@@ -2816,9 +2842,22 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/167646906_32x32.png?v=",
     "loves": 183,
     "favorites": 137,
-    "views": 735,
-    "weight": 1.1432709081562114,
+    "views": 736,
+    "weight": 1.1381183769846286,
     "username": "scratchstorycrew"
+  },
+  {
+    "count": 1,
+    "id": 1317833734,
+    "title": "How Bad Can I Be - 13",
+    "shared": "2026-05-08T20:29:58.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1317833734_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/157876957_32x32.png?v=",
+    "loves": 9,
+    "favorites": 7,
+    "views": 79,
+    "weight": 1.133453316789898,
+    "username": "Wandoof-alt"
   },
   {
     "count": 1,
@@ -2830,7 +2869,7 @@
     "loves": 44,
     "favorites": 40,
     "views": 221,
-    "weight": 1.1431018488699478,
+    "weight": 1.1328460413459411,
     "username": "wolther"
   },
   {
@@ -2843,7 +2882,7 @@
     "loves": 31,
     "favorites": 22,
     "views": 92,
-    "weight": 1.139045203594412,
+    "weight": 1.1288617343884373,
     "username": "DrawsScratch"
   },
   {
@@ -2855,8 +2894,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/97798020_32x32.png?v=",
     "loves": 87,
     "favorites": 83,
-    "views": 583,
-    "weight": 1.1389766950196674,
+    "views": 587,
+    "weight": 1.128794445283667,
     "username": "ChessProking-tm"
   },
   {
@@ -2869,7 +2908,7 @@
     "loves": 96,
     "favorites": 80,
     "views": 536,
-    "weight": 1.1325539926399848,
+    "weight": 1.1224857472075875,
     "username": "-Mike776-"
   },
   {
@@ -2881,8 +2920,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/45986720_32x32.png?v=",
     "loves": 23,
     "favorites": 15,
-    "views": 116,
-    "weight": 1.1203880108307929,
+    "views": 117,
+    "weight": 1.1105339703128039,
     "username": "cherryowl"
   },
   {
@@ -2895,7 +2934,7 @@
     "loves": 51,
     "favorites": 21,
     "views": 114,
-    "weight": 1.1153808759925234,
+    "weight": 1.1056143324860312,
     "username": "CookieTiel"
   },
   {
@@ -2908,7 +2947,7 @@
     "loves": 88,
     "favorites": 72,
     "views": 634,
-    "weight": 1.1113631378211912,
+    "weight": 1.1016665221396116,
     "username": "man-o-valor"
   },
   {
@@ -2921,7 +2960,7 @@
     "loves": 42,
     "favorites": 30,
     "views": 265,
-    "weight": 1.0998949876692679,
+    "weight": 1.0903966029568424,
     "username": "-LostTales-"
   },
   {
@@ -2934,7 +2973,7 @@
     "loves": 10,
     "favorites": 5,
     "views": 104,
-    "weight": 1.0987602508936563,
+    "weight": 1.0892813701588249,
     "username": "AppleDESS"
   },
   {
@@ -2947,7 +2986,7 @@
     "loves": 44,
     "favorites": 41,
     "views": 397,
-    "weight": 1.0926216074882946,
+    "weight": 1.0832478938665633,
     "username": "Urei0"
   },
   {
@@ -2960,8 +2999,21 @@
     "loves": 85,
     "favorites": 53,
     "views": 364,
-    "weight": 1.0921815285869672,
+    "weight": 1.0828153320449894,
     "username": "cherryowl"
+  },
+  {
+    "count": 2,
+    "id": 1281026179,
+    "title": "Felix vs Finito (Part 2)",
+    "shared": "2026-02-19T17:48:55.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1281026179_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/98450051_32x32.png?v=",
+    "loves": 66,
+    "favorites": 71,
+    "views": 787,
+    "weight": 1.0760454549398009,
+    "username": "79th"
   },
   {
     "count": 1,
@@ -2973,7 +3025,7 @@
     "loves": 8,
     "favorites": 5,
     "views": 28,
-    "weight": 1.084194767682545,
+    "weight": 1.0749644752118168,
     "username": "-Pennatae-"
   },
   {
@@ -2986,21 +3038,8 @@
     "loves": 71,
     "favorites": 59,
     "views": 318,
-    "weight": 1.0821605516337083,
+    "weight": 1.072964716378498,
     "username": "TailsKirbyYoshi205"
-  },
-  {
-    "count": 2,
-    "id": 1281026179,
-    "title": "Felix vs Finito (Part 2)",
-    "shared": "2026-02-19T17:48:55.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1281026179_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/98450051_32x32.png?v=",
-    "loves": 66,
-    "favorites": 71,
-    "views": 785,
-    "weight": 1.0806501382878486,
-    "username": "79th"
   },
   {
     "count": 1,
@@ -3011,8 +3050,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/45986720_32x32.png?v=",
     "loves": 1877,
     "favorites": 1503,
-    "views": 59330,
-    "weight": 1.0748423867770713,
+    "views": 59336,
+    "weight": 1.0657699843797221,
     "username": "cherryowl"
   },
   {
@@ -3025,7 +3064,7 @@
     "loves": 140,
     "favorites": 121,
     "views": 798,
-    "weight": 1.0722800372725845,
+    "weight": 1.0632506574157499,
     "username": "Aj-i-guess"
   },
   {
@@ -3038,7 +3077,7 @@
     "loves": 21,
     "favorites": 16,
     "views": 128,
-    "weight": 1.0684095438648455,
+    "weight": 1.059444958634682,
     "username": "Pickle_Powder"
   },
   {
@@ -3051,7 +3090,7 @@
     "loves": 2,
     "favorites": 3,
     "views": 98,
-    "weight": 1.067613466324108,
+    "weight": 1.058662179273382,
     "username": "TheSewerGuy"
   },
   {
@@ -3061,10 +3100,10 @@
     "shared": "2026-05-03T19:31:51.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1312191829_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/85017068_32x32.png?v=",
-    "loves": 451,
-    "favorites": 302,
-    "views": 1624,
-    "weight": 1.0668439318409446,
+    "loves": 454,
+    "favorites": 305,
+    "views": 1640,
+    "weight": 1.057905490274033,
     "username": "Llamapawa"
   },
   {
@@ -3077,7 +3116,7 @@
     "loves": 27,
     "favorites": 18,
     "views": 229,
-    "weight": 1.0665360994410595,
+    "weight": 1.0576027938171546,
     "username": "Werter4_Alt"
   },
   {
@@ -3089,8 +3128,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/165755290_32x32.png?v=",
     "loves": 39,
     "favorites": 31,
-    "views": 311,
-    "weight": 1.0657737040569413,
+    "views": 319,
+    "weight": 1.0568531122647136,
     "username": "-Ace0fSpades-"
   },
   {
@@ -3103,7 +3142,7 @@
     "loves": 382,
     "favorites": 310,
     "views": 5813,
-    "weight": 1.0529485518355648,
+    "weight": 1.0442404856414782,
     "username": "griffpatch_tutor"
   },
   {
@@ -3116,21 +3155,8 @@
     "loves": 3,
     "favorites": 3,
     "views": 27,
-    "weight": 1.0516080142939053,
+    "weight": 1.042922015484112,
     "username": "Sh4rkl"
-  },
-  {
-    "count": 1,
-    "id": 1314540692,
-    "title": "Paper Crane Tutorial",
-    "shared": "2026-05-02T05:27:44.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1314540692_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/70300656_32x32.png?v=",
-    "loves": 39,
-    "favorites": 30,
-    "views": 110,
-    "weight": 1.044744715270746,
-    "username": "DreDre6101"
   },
   {
     "count": 3,
@@ -3142,8 +3168,34 @@
     "loves": 2389,
     "favorites": 2202,
     "views": 29264,
-    "weight": 1.0441614797595613,
+    "weight": 1.041291144519518,
     "username": "-KingMidas-"
+  },
+  {
+    "count": 1,
+    "id": 1314540692,
+    "title": "Paper Crane Tutorial",
+    "shared": "2026-05-02T05:27:44.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1314540692_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/70300656_32x32.png?v=",
+    "loves": 39,
+    "favorites": 30,
+    "views": 110,
+    "weight": 1.0361712623132522,
+    "username": "DreDre6101"
+  },
+  {
+    "count": 1,
+    "id": 1313165653,
+    "title": "In Office - PGMAJ",
+    "shared": "2026-05-02T03:32:41.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1313165653_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/130942955_32x32.png?v=",
+    "loves": 269,
+    "favorites": 239,
+    "views": 1389,
+    "weight": 1.0351001178552686,
+    "username": "King_David_007"
   },
   {
     "count": 1,
@@ -3155,7 +3207,7 @@
     "loves": 14,
     "favorites": 10,
     "views": 49,
-    "weight": 1.042100232296188,
+    "weight": 1.0335699498786566,
     "username": "SkyxBurning"
   },
   {
@@ -3168,7 +3220,7 @@
     "loves": 9,
     "favorites": 7,
     "views": 34,
-    "weight": 1.0387537983036899,
+    "weight": 1.0302779906940704,
     "username": "mxcuriii"
   },
   {
@@ -3181,7 +3233,7 @@
     "loves": 47,
     "favorites": 28,
     "views": 107,
-    "weight": 1.0381130635890647,
+    "weight": 1.0296476664157572,
     "username": "YuniJ"
   },
   {
@@ -3191,10 +3243,10 @@
     "shared": "2026-05-01T12:36:04.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1216409419_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/89934476_32x32.png?v=",
-    "loves": 434,
-    "favorites": 372,
-    "views": 3422,
-    "weight": 1.0352465670270892,
+    "loves": 441,
+    "favorites": 379,
+    "views": 3465,
+    "weight": 1.0268276661615114,
     "username": "the122333"
   },
   {
@@ -3206,8 +3258,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/110563743_32x32.png?v=",
     "loves": 190,
     "favorites": 174,
-    "views": 2874,
-    "weight": 1.0322177850535081,
+    "views": 2878,
+    "weight": 1.0238478745592616,
     "username": "Omar926"
   },
   {
@@ -3220,7 +3272,7 @@
     "loves": 1766,
     "favorites": 1473,
     "views": 69970,
-    "weight": 1.028554088098467,
+    "weight": 1.0202432483702264,
     "username": "pikachu0601"
   },
   {
@@ -3233,7 +3285,7 @@
     "loves": 14,
     "favorites": 12,
     "views": 122,
-    "weight": 1.0267359405227485,
+    "weight": 1.0184543382382683,
     "username": "EpsilonX"
   },
   {
@@ -3246,7 +3298,7 @@
     "loves": 17,
     "favorites": 14,
     "views": 68,
-    "weight": 1.0237867045813118,
+    "weight": 1.015552419974444,
     "username": "yoyo41"
   },
   {
@@ -3256,24 +3308,11 @@
     "shared": "2026-04-30T15:27:35.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1314328322_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/10507198_32x32.png?v=",
-    "loves": 145,
-    "favorites": 127,
-    "views": 1987,
-    "weight": 1.0235785444913106,
+    "loves": 146,
+    "favorites": 128,
+    "views": 2000,
+    "weight": 1.0153475945339983,
     "username": "colinmacc"
-  },
-  {
-    "count": 1,
-    "id": 1314091478,
-    "title": "3d test 3",
-    "shared": "2026-04-30T09:35:10.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1314091478_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/87598255_32x32.png?v=",
-    "loves": 7,
-    "favorites": 4,
-    "views": 44,
-    "weight": 1.0203834145508068,
-    "username": "loopingperson"
   },
   {
     "count": 2,
@@ -3285,8 +3324,21 @@
     "loves": 76,
     "favorites": 61,
     "views": 1665,
-    "weight": 1.019111789311626,
+    "weight": 1.0150156135070445,
     "username": "-RipeMangoes-"
+  },
+  {
+    "count": 1,
+    "id": 1314091478,
+    "title": "3d test 3",
+    "shared": "2026-04-30T09:35:10.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1314091478_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/87598255_32x32.png?v=",
+    "loves": 7,
+    "favorites": 4,
+    "views": 44,
+    "weight": 1.0122035653620272,
+    "username": "loopingperson"
   },
   {
     "count": 2,
@@ -3298,7 +3350,7 @@
     "loves": 617,
     "favorites": 534,
     "views": 5301,
-    "weight": 1.0121182347592597,
+    "weight": 1.0080779738231973,
     "username": "Fun_Random_Games"
   },
   {
@@ -3311,8 +3363,21 @@
     "loves": 29,
     "favorites": 25,
     "views": 389,
-    "weight": 1.0054193597363752,
+    "weight": 0.9974767346809825,
     "username": "yukku"
+  },
+  {
+    "count": 2,
+    "id": 1037166384,
+    "title": "Lemons, Limes, and First-Degree Crimes",
+    "shared": "2026-02-07T22:07:20.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1037166384_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/17611339_32x32.png?v=",
+    "loves": 882,
+    "favorites": 830,
+    "views": 4142,
+    "weight": 0.9968030823431031,
+    "username": "EnderPlaySmash"
   },
   {
     "count": 1,
@@ -3323,8 +3388,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/168276581_32x32.png?v=",
     "loves": 29,
     "favorites": 24,
-    "views": 129,
-    "weight": 1.003972417169161,
+    "views": 132,
+    "weight": 0.9960525467745853,
     "username": "my_hokanko"
   },
   {
@@ -3337,21 +3402,8 @@
     "loves": 2,
     "favorites": 1,
     "views": 28,
-    "weight": 1.0031777028171462,
+    "weight": 0.9952703163459456,
     "username": "WFHFAnimations"
-  },
-  {
-    "count": 2,
-    "id": 1037166384,
-    "title": "Lemons, Limes, and First-Degree Crimes",
-    "shared": "2026-02-07T22:07:20.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1037166384_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/17611339_32x32.png?v=",
-    "loves": 880,
-    "favorites": 828,
-    "views": 4134,
-    "weight": 1.0007532946732967,
-    "username": "EnderPlaySmash"
   },
   {
     "count": 1,
@@ -3363,7 +3415,7 @@
     "loves": 28,
     "favorites": 20,
     "views": 105,
-    "weight": 0.9904506779755473,
+    "weight": 0.9827418853451708,
     "username": "BoredBits"
   },
   {
@@ -3376,7 +3428,7 @@
     "loves": 13,
     "favorites": 7,
     "views": 100,
-    "weight": 0.9868409368329837,
+    "weight": 0.9791880147958182,
     "username": "ktrav258"
   },
   {
@@ -3386,10 +3438,10 @@
     "shared": "2026-04-26T22:28:04.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1312285862_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/163414872_32x32.png?v=",
-    "loves": 219,
-    "favorites": 204,
-    "views": 1463,
-    "weight": 0.9772166168786937,
+    "loves": 220,
+    "favorites": 205,
+    "views": 1472,
+    "weight": 0.9697116719570849,
     "username": "--Enchanter--"
   },
   {
@@ -3402,7 +3454,7 @@
     "loves": 2,
     "favorites": 2,
     "views": 10,
-    "weight": 0.974293110925942,
+    "weight": 0.9668328320095982,
     "username": "DragonLord190"
   },
   {
@@ -3415,7 +3467,7 @@
     "loves": 25,
     "favorites": 21,
     "views": 153,
-    "weight": 0.9645698784827541,
+    "weight": 0.9572572016521081,
     "username": "finnagin5"
   },
   {
@@ -3425,24 +3477,11 @@
     "shared": "2026-04-25T10:00:59.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1305437362_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/133687752_32x32.png?v=",
-    "loves": 87,
+    "loves": 88,
     "favorites": 68,
-    "views": 974,
-    "weight": 0.9594169818882032,
+    "views": 983,
+    "weight": 0.9521819346012883,
     "username": "global-games"
-  },
-  {
-    "count": 1,
-    "id": 1311635153,
-    "title": "Mini World - A Sand Simulator ",
-    "shared": "2026-04-24T16:21:31.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1311635153_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/159342518_32x32.png?v=",
-    "loves": 48,
-    "favorites": 43,
-    "views": 320,
-    "weight": 0.9510255819768405,
-    "username": "Encoded_Creations"
   },
   {
     "count": 2,
@@ -3454,21 +3493,21 @@
     "loves": 89,
     "favorites": 88,
     "views": 638,
-    "weight": 0.947963867808314,
+    "weight": 0.9444186706868777,
     "username": "ziz345"
   },
   {
     "count": 1,
-    "id": 1100392317,
-    "title": "Axiom Tiles v1.0.8",
-    "shared": "2026-04-24T03:49:45.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1100392317_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/41648373_32x32.png?v=",
-    "loves": 3074,
-    "favorites": 2756,
-    "views": 74857,
-    "weight": 0.9451597716722788,
-    "username": "mocca200"
+    "id": 1311635153,
+    "title": "Mini World - A Sand Simulator ",
+    "shared": "2026-04-24T16:21:31.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1311635153_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/159342518_32x32.png?v=",
+    "loves": 48,
+    "favorites": 43,
+    "views": 320,
+    "weight": 0.9439160727271542,
+    "username": "Encoded_Creations"
   },
   {
     "count": 2,
@@ -3480,8 +3519,21 @@
     "loves": 679,
     "favorites": 600,
     "views": 4387,
-    "weight": 0.9448885229840284,
+    "weight": 0.9413662481780519,
     "username": "nakakouTV"
+  },
+  {
+    "count": 1,
+    "id": 1100392317,
+    "title": "Axiom Tiles v1.0.8",
+    "shared": "2026-04-24T03:49:45.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1100392317_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/41648373_32x32.png?v=",
+    "loves": 3074,
+    "favorites": 2756,
+    "views": 74868,
+    "weight": 0.9381373694701562,
+    "username": "mocca200"
   },
   {
     "count": 1,
@@ -3492,8 +3544,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/168300943_32x32.png?v=",
     "loves": 20,
     "favorites": 16,
-    "views": 122,
-    "weight": 0.9391938184978267,
+    "views": 123,
+    "weight": 0.9322594635314077,
     "username": "Brezel640"
   },
   {
@@ -3506,7 +3558,7 @@
     "loves": 6,
     "favorites": 4,
     "views": 43,
-    "weight": 0.9226490774661937,
+    "weight": 0.9159560098657258,
     "username": "7w743891"
   },
   {
@@ -3519,7 +3571,7 @@
     "loves": 21,
     "favorites": 18,
     "views": 393,
-    "weight": 0.9222388910749374,
+    "weight": 0.9155517517217823,
     "username": "Yourflez"
   },
   {
@@ -3532,7 +3584,7 @@
     "loves": 504,
     "favorites": 360,
     "views": 1657,
-    "weight": 0.9210917669851104,
+    "weight": 0.9144211926798553,
     "username": "GazerOfStars"
   },
   {
@@ -3542,10 +3594,10 @@
     "shared": "2026-04-21T20:09:40.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1310069269_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/158350248_32x32.png?v=",
-    "loves": 32,
-    "favorites": 21,
-    "views": 196,
-    "weight": 0.9199496969642376,
+    "loves": 33,
+    "favorites": 22,
+    "views": 197,
+    "weight": 0.9132955944645179,
     "username": "weepingfox"
   },
   {
@@ -3558,7 +3610,7 @@
     "loves": 27,
     "favorites": 21,
     "views": 165,
-    "weight": 0.9190458743414214,
+    "weight": 0.9124047932526855,
     "username": "Nuclear_Cratch"
   },
   {
@@ -3571,7 +3623,7 @@
     "loves": 44,
     "favorites": 42,
     "views": 421,
-    "weight": 0.9183292426931616,
+    "weight": 0.9116984770523292,
     "username": "FireSonic55"
   },
   {
@@ -3584,34 +3636,8 @@
     "loves": 31,
     "favorites": 26,
     "views": 215,
-    "weight": 0.9151223621211811,
+    "weight": 0.9085376598197087,
     "username": "-kippie2-"
-  },
-  {
-    "count": 1,
-    "id": 1309760385,
-    "title": "SHE GON CALL ME BABY BOO",
-    "shared": "2026-04-21T03:29:09.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1309760385_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/78999015_32x32.png?v=",
-    "loves": 443,
-    "favorites": 324,
-    "views": 1476,
-    "weight": 0.9126577437720257,
-    "username": "TinyTansy"
-  },
-  {
-    "count": 1,
-    "id": 1292379162,
-    "title": "Jax Toy - TADC - [ Animation/Entry ]",
-    "shared": "2026-04-21T01:25:35.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1292379162_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/139688194_32x32.png?v=",
-    "loves": 654,
-    "favorites": 551,
-    "views": 2582,
-    "weight": 0.9117651788861456,
-    "username": "BoostStar"
   },
   {
     "count": 2,
@@ -3623,8 +3649,34 @@
     "loves": 455,
     "favorites": 367,
     "views": 3162,
-    "weight": 0.9099613341058523,
+    "weight": 0.9066941935945559,
     "username": "SirBob_"
+  },
+  {
+    "count": 1,
+    "id": 1309760385,
+    "title": "SHE GON CALL ME BABY BOO",
+    "shared": "2026-04-21T03:29:09.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1309760385_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/78999015_32x32.png?v=",
+    "loves": 443,
+    "favorites": 324,
+    "views": 1476,
+    "weight": 0.9061083347852248,
+    "username": "TinyTansy"
+  },
+  {
+    "count": 1,
+    "id": 1292379162,
+    "title": "Jax Toy - TADC - [ Animation/Entry ]",
+    "shared": "2026-04-21T01:25:35.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1292379162_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/139688194_32x32.png?v=",
+    "loves": 655,
+    "favorites": 553,
+    "views": 2584,
+    "weight": 0.905228528315626,
+    "username": "BoostStar"
   },
   {
     "count": 1,
@@ -3636,7 +3688,7 @@
     "loves": 5,
     "favorites": 4,
     "views": 16,
-    "weight": 0.9097269362693624,
+    "weight": 0.9032193738631127,
     "username": "d-darkxwolf17"
   },
   {
@@ -3649,21 +3701,8 @@
     "loves": 1708,
     "favorites": 1384,
     "views": 38153,
-    "weight": 0.9046198875227591,
+    "weight": 0.898184926381754,
     "username": "clever-panda"
-  },
-  {
-    "count": 1,
-    "id": 1307768190,
-    "title": "HAPPY BIRTHDAY LUNAR APRIL 20TH",
-    "shared": "2026-04-20T03:08:15.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1307768190_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/78943994_32x32.png?v=",
-    "loves": 8,
-    "favorites": 6,
-    "views": 39,
-    "weight": 0.902215680416555,
-    "username": "Crystal_0805"
   },
   {
     "count": 1,
@@ -3672,10 +3711,10 @@
     "shared": "2026-04-20T02:55:36.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1309231935_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/126931003_32x32.png?v=",
-    "loves": 37,
-    "favorites": 37,
-    "views": 145,
-    "weight": 0.9021263054763967,
+    "loves": 39,
+    "favorites": 39,
+    "views": 153,
+    "weight": 0.8957266457417468,
     "username": "dogmaster25"
   },
   {
@@ -3688,7 +3727,7 @@
     "loves": 1,
     "favorites": 1,
     "views": 10,
-    "weight": 0.8931738152621435,
+    "weight": 0.8869001010683615,
     "username": "IamWasabi"
   },
   {
@@ -3701,7 +3740,7 @@
     "loves": 904,
     "favorites": 841,
     "views": 12166,
-    "weight": 0.8884014852254644,
+    "weight": 0.8852870634060387,
     "username": "Mewtwo1998"
   },
   {
@@ -3713,8 +3752,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/168300943_32x32.png?v=",
     "loves": 14,
     "favorites": 12,
-    "views": 53,
-    "weight": 0.8872386326767845,
+    "views": 56,
+    "weight": 0.8810477307545678,
     "username": "Brezel640"
   },
   {
@@ -3724,10 +3763,10 @@
     "shared": "2026-04-18T05:37:45.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1292444469_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/122012135_32x32.png?v=",
-    "loves": 69,
-    "favorites": 69,
-    "views": 419,
-    "weight": 0.883326150069788,
+    "loves": 71,
+    "favorites": 70,
+    "views": 422,
+    "weight": 0.8771895394586993,
     "username": "LC_Orange"
   },
   {
@@ -3740,7 +3779,7 @@
     "loves": 43,
     "favorites": 41,
     "views": 121,
-    "weight": 0.8827182283828606,
+    "weight": 0.8765900322271731,
     "username": "Toasted-Cheese"
   },
   {
@@ -3750,10 +3789,10 @@
     "shared": "2026-04-18T03:27:16.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1299645446_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/98450051_32x32.png?v=",
-    "loves": 167,
-    "favorites": 147,
-    "views": 791,
-    "weight": 0.8824432522636391,
+    "loves": 168,
+    "favorites": 148,
+    "views": 795,
+    "weight": 0.8763188602650457,
     "username": "79th"
   },
   {
@@ -3766,7 +3805,7 @@
     "loves": 151,
     "favorites": 102,
     "views": 564,
-    "weight": 0.8823787027913067,
+    "weight": 0.8762552035213137,
     "username": "_Inkspot_"
   },
   {
@@ -3779,7 +3818,7 @@
     "loves": 35,
     "favorites": 26,
     "views": 285,
-    "weight": 0.8800227622063478,
+    "weight": 0.8739318057627353,
     "username": "littlebunny06"
   },
   {
@@ -3792,7 +3831,7 @@
     "loves": 11,
     "favorites": 11,
     "views": 52,
-    "weight": 0.8713622163727694,
+    "weight": 0.8653901487805851,
     "username": "Dainty_Slugcat_Alt"
   },
   {
@@ -3804,8 +3843,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/97798020_32x32.png?v=",
     "loves": 18,
     "favorites": 16,
-    "views": 269,
-    "weight": 0.8701827251646935,
+    "views": 270,
+    "weight": 0.8642267591659487,
     "username": "ChessProking-tm"
   },
   {
@@ -3817,8 +3856,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/90803509_32x32.png?v=",
     "loves": 30,
     "favorites": 28,
-    "views": 156,
-    "weight": 0.8627088168203159,
+    "views": 157,
+    "weight": 0.8568543776291415,
     "username": "SirBob_Extras"
   },
   {
@@ -3830,8 +3869,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/158495255_32x32.png?v=",
     "loves": 4048,
     "favorites": 3364,
-    "views": 164333,
-    "weight": 0.8592166023040898,
+    "views": 164339,
+    "weight": 0.8534093048832456,
     "username": "Integrationing"
   },
   {
@@ -3844,7 +3883,7 @@
     "loves": 63,
     "favorites": 51,
     "views": 566,
-    "weight": 0.8482127157881911,
+    "weight": 0.842552722707368,
     "username": "D3faultDev"
   },
   {
@@ -3857,7 +3896,7 @@
     "loves": 8,
     "favorites": 2,
     "views": 39,
-    "weight": 0.8461406890220804,
+    "weight": 0.8405082229862205,
     "username": "medude11"
   },
   {
@@ -3870,7 +3909,7 @@
     "loves": 5,
     "favorites": 5,
     "views": 68,
-    "weight": 0.8453718825909082,
+    "weight": 0.8397496132573977,
     "username": "breakfast_for_dinner"
   },
   {
@@ -3883,7 +3922,7 @@
     "loves": 10,
     "favorites": 6,
     "views": 66,
-    "weight": 0.8436937373067829,
+    "weight": 0.8380936933865708,
     "username": "Brezel640"
   },
   {
@@ -3896,8 +3935,21 @@
     "loves": 2,
     "favorites": 1,
     "views": 22,
-    "weight": 0.8395296731625123,
+    "weight": 0.8339845893895117,
     "username": "Alister-Diedeus"
+  },
+  {
+    "count": 2,
+    "id": 1261905549,
+    "title": "Maybe they'll smile back!",
+    "shared": "2026-01-06T21:27:40.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1261905549_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/90207765_32x32.png?v=",
+    "loves": 705,
+    "favorites": 602,
+    "views": 4701,
+    "weight": 0.8309931630513601,
+    "username": "YeetachuAnimation"
   },
   {
     "count": 1,
@@ -3909,7 +3961,7 @@
     "loves": 151,
     "favorites": 126,
     "views": 875,
-    "weight": 0.8352555880099385,
+    "weight": 0.8297666365079787,
     "username": "redspacecat"
   },
   {
@@ -3922,7 +3974,7 @@
     "loves": 89,
     "favorites": 67,
     "views": 305,
-    "weight": 0.8352249053730874,
+    "weight": 0.8297363558057618,
     "username": "ARC_Phantom"
   },
   {
@@ -3935,21 +3987,21 @@
     "loves": 1253,
     "favorites": 982,
     "views": 26403,
-    "weight": 0.8344481952167814,
+    "weight": 0.8289698154829572,
     "username": "YeetachuAnimation"
   },
   {
     "count": 2,
-    "id": 1261905549,
-    "title": "Maybe they'll smile back!",
-    "shared": "2026-01-06T21:27:40.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1261905549_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/90207765_32x32.png?v=",
-    "loves": 705,
-    "favorites": 602,
-    "views": 4701,
-    "weight": 0.8337366974373542,
-    "username": "YeetachuAnimation"
+    "id": 1259586745,
+    "title": "• Orby •",
+    "shared": "2026-01-05T15:44:05.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1259586745_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/135638455_32x32.png?v=",
+    "loves": 220,
+    "favorites": 182,
+    "views": 1211,
+    "weight": 0.8256816164443164,
+    "username": "whitespace576"
   },
   {
     "count": 1,
@@ -3961,21 +4013,8 @@
     "loves": 73,
     "favorites": 64,
     "views": 1521,
-    "weight": 0.8304457069883485,
+    "weight": 0.8250195851914967,
     "username": "yukku"
-  },
-  {
-    "count": 2,
-    "id": 1259586745,
-    "title": "• Orby •",
-    "shared": "2026-01-05T15:44:05.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1259586745_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/135638455_32x32.png?v=",
-    "loves": 220,
-    "favorites": 182,
-    "views": 1207,
-    "weight": 0.8283901334851304,
-    "username": "whitespace576"
   },
   {
     "count": 1,
@@ -3987,7 +4026,7 @@
     "loves": 4715,
     "favorites": 3690,
     "views": 180596,
-    "weight": 0.8268204384160038,
+    "weight": 0.82144143470162,
     "username": "Ne0shark"
   },
   {
@@ -4000,7 +4039,7 @@
     "loves": 40,
     "favorites": 37,
     "views": 199,
-    "weight": 0.8263638480479655,
+    "weight": 0.8209907642235383,
     "username": "j3steer"
   },
   {
@@ -4013,7 +4052,7 @@
     "loves": 3859,
     "favorites": 3552,
     "views": 72921,
-    "weight": 0.8178698474017243,
+    "weight": 0.81610777198839,
     "username": "theChAOTiC"
   },
   {
@@ -4023,10 +4062,10 @@
     "shared": "2026-01-03T00:00:09.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1260917118_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/17723123_32x32.png?v=",
-    "loves": 1321,
-    "favorites": 1230,
-    "views": 7363,
-    "weight": 0.81715528170687,
+    "loves": 1322,
+    "favorites": 1232,
+    "views": 7384,
+    "weight": 0.8145196168862107,
     "username": "-Rocket-"
   },
   {
@@ -4039,7 +4078,7 @@
     "loves": 1048,
     "favorites": 961,
     "views": 8272,
-    "weight": 0.8146035461734058,
+    "weight": 0.81198429003433,
     "username": "louisrk"
   },
   {
@@ -4052,7 +4091,7 @@
     "loves": 23,
     "favorites": 11,
     "views": 105,
-    "weight": 0.8133330809349292,
+    "weight": 0.8081275815256782,
     "username": "xolthem"
   },
   {
@@ -4065,7 +4104,7 @@
     "loves": 21,
     "favorites": 20,
     "views": 227,
-    "weight": 0.8127778945401922,
+    "weight": 0.8075794766092554,
     "username": "dinox9"
   },
   {
@@ -4078,7 +4117,7 @@
     "loves": 21,
     "favorites": 18,
     "views": 52,
-    "weight": 0.8114531071475309,
+    "weight": 0.8062715677119446,
     "username": "TheTally"
   },
   {
@@ -4090,22 +4129,9 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/71459064_32x32.png?v=",
     "loves": 40,
     "favorites": 35,
-    "views": 356,
-    "weight": 0.8108917313335313,
+    "views": 361,
+    "weight": 0.8057173358979416,
     "username": "ian_the_last"
-  },
-  {
-    "count": 1,
-    "id": 1305262762,
-    "title": "Realtime Upscaling",
-    "shared": "2026-04-09T20:10:34.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1305262762_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/168300943_32x32.png?v=",
-    "loves": 3,
-    "favorites": 3,
-    "views": 35,
-    "weight": 0.8084021149374494,
-    "username": "Brezel640"
   },
   {
     "count": 2,
@@ -4117,8 +4143,21 @@
     "loves": 1229,
     "favorites": 1104,
     "views": 7248,
-    "weight": 0.8077126134247988,
+    "weight": 0.8051374137272838,
     "username": "IncognitoOrange"
+  },
+  {
+    "count": 1,
+    "id": 1305262762,
+    "title": "Realtime Upscaling",
+    "shared": "2026-04-09T20:10:34.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1305262762_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/168300943_32x32.png?v=",
+    "loves": 3,
+    "favorites": 3,
+    "views": 36,
+    "weight": 0.8032593430420185,
+    "username": "Brezel640"
   },
   {
     "count": 1,
@@ -4130,7 +4169,7 @@
     "loves": 4,
     "favorites": 2,
     "views": 20,
-    "weight": 0.8075229272375065,
+    "weight": 0.8023912999252255,
     "username": "Eturnattie"
   },
   {
@@ -4143,7 +4182,7 @@
     "loves": 11,
     "favorites": 10,
     "views": 62,
-    "weight": 0.8070489473725907,
+    "weight": 0.8019233232456917,
     "username": "OffTornado"
   },
   {
@@ -4155,9 +4194,22 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/167537760_32x32.png?v=",
     "loves": 35,
     "favorites": 37,
-    "views": 513,
-    "weight": 0.8066692789641373,
+    "views": 514,
+    "weight": 0.8015484610039475,
     "username": "fortyonegames"
+  },
+  {
+    "count": 2,
+    "id": 1236740539,
+    "title": "even MORE art (art dump)",
+    "shared": "2025-12-30T18:17:56.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1236740539_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/34383209_32x32.png?v=",
+    "loves": 46,
+    "favorites": 32,
+    "views": 176,
+    "weight": 0.8013123377808846,
+    "username": "Snoopywoodstock13"
   },
   {
     "count": 1,
@@ -4169,21 +4221,8 @@
     "loves": 55,
     "favorites": 56,
     "views": 150,
-    "weight": 0.8055867728944605,
+    "weight": 0.8004796459214665,
     "username": "Atsptvy3"
-  },
-  {
-    "count": 2,
-    "id": 1236740539,
-    "title": "even MORE art (art dump)",
-    "shared": "2025-12-30T18:17:56.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1236740539_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/34383209_32x32.png?v=",
-    "loves": 45,
-    "favorites": 32,
-    "views": 171,
-    "weight": 0.8038630881385019,
-    "username": "Snoopywoodstock13"
   },
   {
     "count": 1,
@@ -4192,10 +4231,10 @@
     "shared": "2026-04-09T05:06:47.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1304517204_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/38309664_32x32.png?v=",
-    "loves": 54,
-    "favorites": 50,
-    "views": 330,
-    "weight": 0.8033073863757499,
+    "loves": 55,
+    "favorites": 51,
+    "views": 338,
+    "weight": 0.7982290283828033,
     "username": "iceythekirb"
   },
   {
@@ -4208,7 +4247,7 @@
     "loves": 11,
     "favorites": 4,
     "views": 46,
-    "weight": 0.8012603813743018,
+    "weight": 0.7962077905714301,
     "username": "Alister-Diedeus"
   },
   {
@@ -4218,10 +4257,10 @@
     "shared": "2026-04-08T16:47:48.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1294711395_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/130942955_32x32.png?v=",
-    "loves": 78,
-    "favorites": 75,
-    "views": 916,
-    "weight": 0.7991891289274776,
+    "loves": 82,
+    "favorites": 79,
+    "views": 938,
+    "weight": 0.7941625442499397,
     "username": "King_David_007"
   },
   {
@@ -4234,7 +4273,7 @@
     "loves": 19,
     "favorites": 14,
     "views": 160,
-    "weight": 0.7969775463197761,
+    "weight": 0.7919786561092197,
     "username": "LLMModel"
   },
   {
@@ -4247,7 +4286,7 @@
     "loves": 42,
     "favorites": 27,
     "views": 149,
-    "weight": 0.7966004987968651,
+    "weight": 0.7916063225655621,
     "username": "Luna666611"
   },
   {
@@ -4260,7 +4299,7 @@
     "loves": 9,
     "favorites": 7,
     "views": 72,
-    "weight": 0.795620927004663,
+    "weight": 0.7906389873925576,
     "username": "loopingperson"
   },
   {
@@ -4273,7 +4312,7 @@
     "loves": 398,
     "favorites": 359,
     "views": 3167,
-    "weight": 0.7940055071907225,
+    "weight": 0.7890437145067201,
     "username": "ItsDaBeans"
   },
   {
@@ -4286,7 +4325,7 @@
     "loves": 19,
     "favorites": 15,
     "views": 152,
-    "weight": 0.7855348580921102,
+    "weight": 0.7806780441992097,
     "username": "CircleBasic"
   },
   {
@@ -4299,7 +4338,7 @@
     "loves": 135,
     "favorites": 114,
     "views": 719,
-    "weight": 0.7786378986530527,
+    "weight": 0.7738657365034585,
     "username": "Phantom_Bowtie"
   },
   {
@@ -4312,7 +4351,7 @@
     "loves": 2,
     "favorites": 1,
     "views": 41,
-    "weight": 0.7770776228075277,
+    "weight": 0.7723245085434336,
     "username": "trivain"
   },
   {
@@ -4324,8 +4363,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/23024346_32x32.png?v=",
     "loves": 96,
     "favorites": 78,
-    "views": 552,
-    "weight": 0.7738464708774183,
+    "views": 553,
+    "weight": 0.7691326822164055,
     "username": "samkov"
   },
   {
@@ -4338,7 +4377,7 @@
     "loves": 227,
     "favorites": 161,
     "views": 1576,
-    "weight": 0.7693303180362016,
+    "weight": 0.7646712223595006,
     "username": "SkyCedar"
   },
   {
@@ -4351,7 +4390,7 @@
     "loves": 1,
     "favorites": 1,
     "views": 18,
-    "weight": 0.7620053636638114,
+    "weight": 0.7574343024958589,
     "username": "Dainty_Slugcat_Alt"
   },
   {
@@ -4364,7 +4403,7 @@
     "loves": 103,
     "favorites": 87,
     "views": 602,
-    "weight": 0.7611907853371546,
+    "weight": 0.7566294625596298,
     "username": "levitm"
   },
   {
@@ -4377,7 +4416,7 @@
     "loves": 311,
     "favorites": 267,
     "views": 2124,
-    "weight": 0.7611839115948635,
+    "weight": 0.7566226709499076,
     "username": "YeetachuAnimation"
   },
   {
@@ -4390,7 +4429,7 @@
     "loves": 36,
     "favorites": 31,
     "views": 389,
-    "weight": 0.7598502436878812,
+    "weight": 0.7553049247893494,
     "username": "notsureabout"
   },
   {
@@ -4403,7 +4442,7 @@
     "loves": 67,
     "favorites": 38,
     "views": 310,
-    "weight": 0.7584854495517467,
+    "weight": 0.7539563953472492,
     "username": "Quonk_Object"
   },
   {
@@ -4416,7 +4455,7 @@
     "loves": 1,
     "favorites": 1,
     "views": 20,
-    "weight": 0.7577555413866013,
+    "weight": 0.7532351738410462,
     "username": "NutOfCoco"
   },
   {
@@ -4429,7 +4468,7 @@
     "loves": 22,
     "favorites": 14,
     "views": 232,
-    "weight": 0.7561768148041957,
+    "weight": 0.7516752073790117,
     "username": "Enderthelynx"
   },
   {
@@ -4441,8 +4480,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/154200340_32x32.png?v=",
     "loves": 23,
     "favorites": 20,
-    "views": 176,
-    "weight": 0.7483408130320592,
+    "views": 177,
+    "weight": 0.7439317474445467,
     "username": "positivedifference"
   },
   {
@@ -4455,7 +4494,7 @@
     "loves": 31,
     "favorites": 18,
     "views": 220,
-    "weight": 0.7461376452773512,
+    "weight": 0.7417544266391055,
     "username": "axolotan"
   },
   {
@@ -4467,8 +4506,8 @@
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/24829544_32x32.png?v=",
     "loves": 129,
     "favorites": 115,
-    "views": 1234,
-    "weight": 0.7457103615882837,
+    "views": 1237,
+    "weight": 0.741332146977668,
     "username": "JamesRayAwsome"
   },
   {
@@ -4478,10 +4517,10 @@
     "shared": "2026-04-01T09:56:53.000Z",
     "banner": "https://cdn2.scratch.mit.edu/get_image/project/1298030128_480x360.png",
     "avatar": "https://cdn2.scratch.mit.edu/get_image/user/100220270_32x32.png?v=",
-    "loves": 1210,
-    "favorites": 1015,
-    "views": 8182,
-    "weight": 0.7449703754333594,
+    "loves": 1214,
+    "favorites": 1017,
+    "views": 8211,
+    "weight": 0.740600820267182,
     "username": "IncognitoOrange"
   },
   {
@@ -4494,7 +4533,7 @@
     "loves": 1223,
     "favorites": 1024,
     "views": 30519,
-    "weight": 0.7446185399278293,
+    "weight": 0.7402530990117667,
     "username": "SkyCedar"
   },
   {
@@ -4507,46 +4546,7 @@
     "loves": 7536,
     "favorites": 6780,
     "views": 191704,
-    "weight": 0.743993376177889,
+    "weight": 0.7396352409709271,
     "username": "Vampr3"
-  },
-  {
-    "count": 1,
-    "id": 1278595648,
-    "title": "Sanic",
-    "shared": "2026-03-31T02:24:00.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1278595648_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/3114701_32x32.png?v=",
-    "loves": 51,
-    "favorites": 50,
-    "views": 546,
-    "weight": 0.7359616048183393,
-    "username": "Chase2006"
-  },
-  {
-    "count": 1,
-    "id": 1292379387,
-    "title": "SAFETY 2HOLLIS - AMV",
-    "shared": "2026-03-30T18:37:27.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1292379387_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/141096472_32x32.png?v=",
-    "loves": 57,
-    "favorites": 35,
-    "views": 272,
-    "weight": 0.7337745306771866,
-    "username": "-Royal_Toons-"
-  },
-  {
-    "count": 2,
-    "id": 1253741911,
-    "title": "bliss",
-    "shared": "2025-12-11T07:32:57.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1253741911_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/114430340_32x32.png?v=",
-    "loves": 1807,
-    "favorites": 1598,
-    "views": 7289,
-    "weight": 0.7323097728358117,
-    "username": "Pocolilman"
   }
 ]
